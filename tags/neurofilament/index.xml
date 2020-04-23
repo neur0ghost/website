@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>neurofilament | Miguel Tábuas Pereira</title>
-    <link>/tags/neurofilament/</link>
-      <atom:link href="/tags/neurofilament/index.xml" rel="self" type="application/rss+xml" />
+    <link>/website/tags/neurofilament/</link>
+      <atom:link href="/website/tags/neurofilament/index.xml" rel="self" type="application/rss+xml" />
     <description>neurofilament</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar</url>
+      <url>/website/img/avatar</url>
       <title>neurofilament</title>
-      <link>/tags/neurofilament/</link>
+      <link>/website/tags/neurofilament/</link>
     </image>
     
     <item>
       <title>Serum Neurofilament Light Chain in Genetic Frontotemporal Dementia - A Longitudinal, Multicentre Cohort Study</title>
-      <link>/publication/serum-neurofilament-light-chain-in-genetic-frontotemporal-dementia-a-longitudinal-multicentre-cohort-study/</link>
+      <link>/website/publication/serum-neurofilament-light-chain-in-genetic-frontotemporal-dementia-a-longitudinal-multicentre-cohort-study/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/serum-neurofilament-light-chain-in-genetic-frontotemporal-dementia-a-longitudinal-multicentre-cohort-study/</guid>
+      <guid>/website/publication/serum-neurofilament-light-chain-in-genetic-frontotemporal-dementia-a-longitudinal-multicentre-cohort-study/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Background: Neurofilament light chain (NfL) is a promising blood biomarker in genetic frontotemporal dementia, with elevated concentrations in symptomatic carriers of mutations in GRN, C9orf72, and MAPT. A better understanding of NfL dynamics is essential for upcoming therapeutic trials. We aimed to study longitudinal NfL trajectories in people with presymptomatic and symptomatic genetic frontotemporal dementia.&lt;/p&gt;
 &lt;p&gt;Methods: We recruited participants from 14 centres collaborating in the Genetic Frontotemporal Dementia Initiative (GENFI), which is a multicentre cohort study of families with genetic frontotemporal dementia done across Europe and Canada. Eligible participants (aged ≥18 years) either had frontotemporal dementia due to a pathogenic mutation in GRN, C9orf72, or MAPT (symptomatic mutation carriers) or were healthy at-risk first-degree relatives (either presymptomatic mutation carriers or non-carriers), and had at least two serum samples with a time interval of 6 months or more. Participants were excluded if they had neurological comorbidities that were likely to affect NfL, including cerebrovascular events. We measured NfL longitudinally in serum samples collected between June 8, 2012, and Dec 8, 2017, through follow-up visits annually or every 2 years, which also included MRI and neuropsychological assessments. Using mixed-effects models, we analysed NfL changes over time and correlated them with longitudinal imaging and clinical parameters, controlling for age, sex, and study site. The primary outcome was the course of NfL over time in the various stages of genetic frontotemporal dementia.&lt;/p&gt;

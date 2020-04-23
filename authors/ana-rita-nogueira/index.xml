@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ana Rita Nogueira | Miguel Tábuas Pereira</title>
-    <link>/authors/ana-rita-nogueira/</link>
-      <atom:link href="/authors/ana-rita-nogueira/index.xml" rel="self" type="application/rss+xml" />
+    <link>/website/authors/ana-rita-nogueira/</link>
+      <atom:link href="/website/authors/ana-rita-nogueira/index.xml" rel="self" type="application/rss+xml" />
     <description>Ana Rita Nogueira</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar</url>
+      <url>/website/img/avatar</url>
       <title>Ana Rita Nogueira</title>
-      <link>/authors/ana-rita-nogueira/</link>
+      <link>/website/authors/ana-rita-nogueira/</link>
     </image>
     
     <item>
       <title>Single Word Repetition Predicts Long-Term Outcome of Aphasia Caused by an Ischemic Stroke</title>
-      <link>/publication/single-word-repetition-predicts-long-term-outcome-of-aphasia-caused-by-an-ischemic-stroke/</link>
+      <link>/website/publication/single-word-repetition-predicts-long-term-outcome-of-aphasia-caused-by-an-ischemic-stroke/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/single-word-repetition-predicts-long-term-outcome-of-aphasia-caused-by-an-ischemic-stroke/</guid>
+      <guid>/website/publication/single-word-repetition-predicts-long-term-outcome-of-aphasia-caused-by-an-ischemic-stroke/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Purpose: Better understanding of clinical predictors of aphasia outcome is of the utmost importance, in patients&amp;rsquo; rehabilitation planning, expectation management, and further physiopathology understanding. We aimed to identify clinical predictors of long-term poststroke aphasia&amp;rsquo;s outcome.&lt;/p&gt;
 &lt;p&gt;Methods: We conducted a prospective longitudinal observation study of patients with left-Middle Cerebral Artery stroke with aphasia. Patients were evaluated at baseline, day 7 and 6 months with National Institutes of Health Stroke Scale (NIHSS) and Aphasia Rapid Test Other demographic variables and vascular risk factors were collected. A linear regression was performed to identify best predictors of aphasia at 6 months.&lt;/p&gt;

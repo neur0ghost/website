@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dementia | Miguel Tábuas Pereira</title>
-    <link>/tags/dementia/</link>
-      <atom:link href="/tags/dementia/index.xml" rel="self" type="application/rss+xml" />
+    <link>/website/tags/dementia/</link>
+      <atom:link href="/website/tags/dementia/index.xml" rel="self" type="application/rss+xml" />
     <description>dementia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar</url>
+      <url>/website/img/avatar</url>
       <title>dementia</title>
-      <link>/tags/dementia/</link>
+      <link>/website/tags/dementia/</link>
     </image>
     
     <item>
       <title>Plasma Glial Fibrillary Acidic Protein Is Raised in Progranulin-Associated Frontotemporal Dementia</title>
-      <link>/publication/plasma-glial-fibrillary-acidic-protein-is-raised-in-progranulin-associated-frontotemporal-dementia/</link>
+      <link>/website/publication/plasma-glial-fibrillary-acidic-protein-is-raised-in-progranulin-associated-frontotemporal-dementia/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/plasma-glial-fibrillary-acidic-protein-is-raised-in-progranulin-associated-frontotemporal-dementia/</guid>
+      <guid>/website/publication/plasma-glial-fibrillary-acidic-protein-is-raised-in-progranulin-associated-frontotemporal-dementia/</guid>
       <description>&lt;p&gt;Abstract
 Background: There are few validated fluid biomarkers in frontotemporal dementia (FTD). Glial fibrillary acidic protein (GFAP) is a measure of astrogliosis, a known pathological process of FTD, but has yet to be explored as potential biomarker.&lt;/p&gt;
 &lt;p&gt;Methods: Plasma GFAP and neurofilament light chain (NfL) concentration were measured in 469 individuals enrolled in the Genetic FTD Initiative: 114 C9orf72 expansion carriers (74 presymptomatic, 40 symptomatic), 119 GRN mutation carriers (88 presymptomatic, 31 symptomatic), 53 MAPT mutation carriers (34 presymptomatic, 19 symptomatic) and 183 non-carrier controls. Biomarker measures were compared between groups using linear regression models adjusted for age and sex with family membership included as random effect. Participants underwent standardised clinical assessments including the Mini-Mental State Examination (MMSE), Frontotemporal Lobar Degeneration-Clinical Dementia Rating scale and MRI. Spearman&amp;rsquo;s correlation coefficient was used to investigate the relationship of plasma GFAP to clinical and imaging measures.&lt;/p&gt;
@@ -27,9 +27,9 @@ Background: There are few validated fluid biomarkers in frontotemporal dementia 
     
     <item>
       <title>Lower CSF Amyloid-Beta 1-42 Predicts a Higher Mortality Rate in Frontotemporal Dementia</title>
-      <link>/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</link>
+      <link>/website/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</guid>
+      <guid>/website/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Frontotemporal lobar degeneration, the neuropathological substrate of frontotemporal dementia (FTD), is characterized by the deposition of protein aggregates, including tau. Evidence has shown concomitant amyloid pathology in some of these patients, which seems to contribute to a more aggressive disease. Our aim was to evaluate cerebrospinal fluid (CSF) amyloid-beta as a predictor of the mortality of FTD patients. We included 99 patients diagnosed with FTD-both behavioral and language variants-with no associated motor neuron disease, from whom a CSF sample was collected. These patients were followed prospectively in our center, and demographic and clinical data were obtained. The survival analysis was carried through a Cox regression model. Patients who died during follow up had a significantly lower CSF amyloid-beta1-42 than those who did not. The survival analysis demonstrated that an increased death rate was associated with a lower CSF amyloid-beta1-42 (HR = 0.999, 95% CI = [0.997, 1.000], p = 0.049). Neither demographic nor clinical variables, nor CSF total tau or p-tau were significantly associated with this endpoint. These results suggest that amyloid deposition in FTD patients may be associated with a higher mortality.&lt;/p&gt;
 </description>
@@ -37,9 +37,9 @@ Background: There are few validated fluid biomarkers in frontotemporal dementia 
     
     <item>
       <title>Clinical Reasoning A 55-year-old Man With Rapidly Progressive Dementia and Parkinsonism</title>
-      <link>/publication/clinical-reasoning-a-55-year-old-man-with-rapidly-progressive-dementia-and-parkinsonism/</link>
+      <link>/website/publication/clinical-reasoning-a-55-year-old-man-with-rapidly-progressive-dementia-and-parkinsonism/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/clinical-reasoning-a-55-year-old-man-with-rapidly-progressive-dementia-and-parkinsonism/</guid>
+      <guid>/website/publication/clinical-reasoning-a-55-year-old-man-with-rapidly-progressive-dementia-and-parkinsonism/</guid>
       <description></description>
     </item>
     

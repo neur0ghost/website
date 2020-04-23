@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>biomarkers | Miguel Tábuas Pereira</title>
-    <link>/tags/biomarkers/</link>
-      <atom:link href="/tags/biomarkers/index.xml" rel="self" type="application/rss+xml" />
+    <link>/website/tags/biomarkers/</link>
+      <atom:link href="/website/tags/biomarkers/index.xml" rel="self" type="application/rss+xml" />
     <description>biomarkers</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar</url>
+      <url>/website/img/avatar</url>
       <title>biomarkers</title>
-      <link>/tags/biomarkers/</link>
+      <link>/website/tags/biomarkers/</link>
     </image>
     
     <item>
       <title>Lower CSF Amyloid-Beta 1-42 Predicts a Higher Mortality Rate in Frontotemporal Dementia</title>
-      <link>/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</link>
+      <link>/website/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</guid>
+      <guid>/website/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Frontotemporal lobar degeneration, the neuropathological substrate of frontotemporal dementia (FTD), is characterized by the deposition of protein aggregates, including tau. Evidence has shown concomitant amyloid pathology in some of these patients, which seems to contribute to a more aggressive disease. Our aim was to evaluate cerebrospinal fluid (CSF) amyloid-beta as a predictor of the mortality of FTD patients. We included 99 patients diagnosed with FTD-both behavioral and language variants-with no associated motor neuron disease, from whom a CSF sample was collected. These patients were followed prospectively in our center, and demographic and clinical data were obtained. The survival analysis was carried through a Cox regression model. Patients who died during follow up had a significantly lower CSF amyloid-beta1-42 than those who did not. The survival analysis demonstrated that an increased death rate was associated with a lower CSF amyloid-beta1-42 (HR = 0.999, 95% CI = [0.997, 1.000], p = 0.049). Neither demographic nor clinical variables, nor CSF total tau or p-tau were significantly associated with this endpoint. These results suggest that amyloid deposition in FTD patients may be associated with a higher mortality.&lt;/p&gt;
 </description>

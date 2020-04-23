@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robin Borchet | Miguel Tábuas Pereira</title>
-    <link>/authors/robin-borchet/</link>
-      <atom:link href="/authors/robin-borchet/index.xml" rel="self" type="application/rss+xml" />
+    <link>/website/authors/robin-borchet/</link>
+      <atom:link href="/website/authors/robin-borchet/index.xml" rel="self" type="application/rss+xml" />
     <description>Robin Borchet</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar</url>
+      <url>/website/img/avatar</url>
       <title>Robin Borchet</title>
-      <link>/authors/robin-borchet/</link>
+      <link>/website/authors/robin-borchet/</link>
     </image>
     
     <item>
       <title>Functional Network Resilience to Pathology in Presymptomatic Genetic Frontotemporal Dementia decline presymptomatically</title>
-      <link>/publication/functional-network-resilience-to-pathology-in-presymptomatic-genetic-frontotemporal-dementia/</link>
+      <link>/website/publication/functional-network-resilience-to-pathology-in-presymptomatic-genetic-frontotemporal-dementia/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/functional-network-resilience-to-pathology-in-presymptomatic-genetic-frontotemporal-dementia/</guid>
+      <guid>/website/publication/functional-network-resilience-to-pathology-in-presymptomatic-genetic-frontotemporal-dementia/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;The presymptomatic phase of neurodegenerative diseases are characterized by structural brain changes without significant clinical features. We set out to investigate the contribution of functional network resilience to preserved cognition in presymptomatic genetic frontotemporal dementia. We studied 172 people from families carrying genetic abnormalities in C9orf72, MAPT, or PGRN. Networks were extracted from functional MRI data and assessed using graph theoretical analysis. We found that despite loss of both brain volume and functional connections, there is maintenance of an efficient topological organization of the brain&amp;rsquo;s functional network in the years leading up to the estimated age of frontotemporal dementia symptom onset. After this point, functional network efficiency declines markedly. Reduction in connectedness was most marked in highly connected hub regions. Measures of topological efficiency of the brain&amp;rsquo;s functional network and organization predicted cognitive dysfunction in domains related to symptomatic frontotemporal dementia and connectivity correlated with brain volume loss in frontotemporal dementia. We propose that maintaining the efficient organization of the brain&amp;rsquo;s functional network supports cognitive health even as atrophy and connectivity decline presymptomatically.&lt;/p&gt;
 </description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emma L van der Ende | Miguel Tábuas Pereira</title>
-    <link>/authors/emma-l-van-der-ende/</link>
-      <atom:link href="/authors/emma-l-van-der-ende/index.xml" rel="self" type="application/rss+xml" />
+    <link>/website/authors/emma-l-van-der-ende/</link>
+      <atom:link href="/website/authors/emma-l-van-der-ende/index.xml" rel="self" type="application/rss+xml" />
     <description>Emma L van der Ende</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar</url>
+      <url>/website/img/avatar</url>
       <title>Emma L van der Ende</title>
-      <link>/authors/emma-l-van-der-ende/</link>
+      <link>/website/authors/emma-l-van-der-ende/</link>
     </image>
     
     <item>
       <title>Neuronal Pentraxin 2 - A Synapse-Derived CSF Biomarker in Genetic Frontotemporal Dementia</title>
-      <link>/publication/neuronal-pentraxin-2-a-synapse-derived-csf-biomarker-in-genetic-frontotemporal-dementia/</link>
+      <link>/website/publication/neuronal-pentraxin-2-a-synapse-derived-csf-biomarker-in-genetic-frontotemporal-dementia/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/neuronal-pentraxin-2-a-synapse-derived-csf-biomarker-in-genetic-frontotemporal-dementia/</guid>
+      <guid>/website/publication/neuronal-pentraxin-2-a-synapse-derived-csf-biomarker-in-genetic-frontotemporal-dementia/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Introduction: Synapse dysfunction is emerging as an early pathological event in frontotemporal dementia (FTD), however biomarkers are lacking. We aimed to investigate the value of cerebrospinal fluid (CSF) neuronal pentraxins (NPTXs), a family of proteins involved in homeostatic synapse plasticity, as novel biomarkers in genetic FTD.&lt;/p&gt;
 &lt;p&gt;Methods: We included 106 presymptomatic and 54 symptomatic carriers of a pathogenic mutation in GRN, C9orf72 or MAPT, and 70 healthy non-carriers participating in the Genetic Frontotemporal dementia Initiative (GENFI), all of whom had at least one CSF sample. We measured CSF concentrations of NPTX2 using an in-house ELISA, and NPTX1 and NPTX receptor (NPTXR) by Western blot. We correlated NPTX2 with corresponding clinical and neuroimaging datasets as well as with CSF neurofilament light chain (NfL) using linear regression analyses.&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Serum Neurofilament Light Chain in Genetic Frontotemporal Dementia - A Longitudinal, Multicentre Cohort Study</title>
-      <link>/publication/serum-neurofilament-light-chain-in-genetic-frontotemporal-dementia-a-longitudinal-multicentre-cohort-study/</link>
+      <link>/website/publication/serum-neurofilament-light-chain-in-genetic-frontotemporal-dementia-a-longitudinal-multicentre-cohort-study/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/serum-neurofilament-light-chain-in-genetic-frontotemporal-dementia-a-longitudinal-multicentre-cohort-study/</guid>
+      <guid>/website/publication/serum-neurofilament-light-chain-in-genetic-frontotemporal-dementia-a-longitudinal-multicentre-cohort-study/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Background: Neurofilament light chain (NfL) is a promising blood biomarker in genetic frontotemporal dementia, with elevated concentrations in symptomatic carriers of mutations in GRN, C9orf72, and MAPT. A better understanding of NfL dynamics is essential for upcoming therapeutic trials. We aimed to study longitudinal NfL trajectories in people with presymptomatic and symptomatic genetic frontotemporal dementia.&lt;/p&gt;
 &lt;p&gt;Methods: We recruited participants from 14 centres collaborating in the Genetic Frontotemporal Dementia Initiative (GENFI), which is a multicentre cohort study of families with genetic frontotemporal dementia done across Europe and Canada. Eligible participants (aged ≥18 years) either had frontotemporal dementia due to a pathogenic mutation in GRN, C9orf72, or MAPT (symptomatic mutation carriers) or were healthy at-risk first-degree relatives (either presymptomatic mutation carriers or non-carriers), and had at least two serum samples with a time interval of 6 months or more. Participants were excluded if they had neurological comorbidities that were likely to affect NfL, including cerebrovascular events. We measured NfL longitudinally in serum samples collected between June 8, 2012, and Dec 8, 2017, through follow-up visits annually or every 2 years, which also included MRI and neuropsychological assessments. Using mixed-effects models, we analysed NfL changes over time and correlated them with longitudinal imaging and clinical parameters, controlling for age, sex, and study site. The primary outcome was the course of NfL over time in the various stages of genetic frontotemporal dementia.&lt;/p&gt;

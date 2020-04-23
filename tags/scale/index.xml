@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scale | Miguel Tábuas Pereira</title>
-    <link>/tags/scale/</link>
-      <atom:link href="/tags/scale/index.xml" rel="self" type="application/rss+xml" />
+    <link>/website/tags/scale/</link>
+      <atom:link href="/website/tags/scale/index.xml" rel="self" type="application/rss+xml" />
     <description>scale</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar</url>
+      <url>/website/img/avatar</url>
       <title>scale</title>
-      <link>/tags/scale/</link>
+      <link>/website/tags/scale/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/publication/aphasia-rapid-test-translation-adaptation-and-validation-studies-for-the-portuguese-population/</link>
+      <link>/website/publication/aphasia-rapid-test-translation-adaptation-and-validation-studies-for-the-portuguese-population/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/aphasia-rapid-test-translation-adaptation-and-validation-studies-for-the-portuguese-population/</guid>
+      <guid>/website/publication/aphasia-rapid-test-translation-adaptation-and-validation-studies-for-the-portuguese-population/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Introduction: Classical aphasia evaluation scales are too long to use in the context of acute stroke or as a monitoring tool. The Aphasia Rapid Test is a 26-point scale developed as a bedside assessment to rate aphasia severity in acute stroke patients in less than 3 minutes. We aimed to adapt and validate this scale for European Portuguese.&lt;/p&gt;
 &lt;p&gt;Material and methods: We evaluated 56 acute stroke patients in the first and in the seventh days post-stroke. In the seventh day, patients were evaluated by two independent raters, to evaluate inter-rater agreement. To study concurrent validity, the Lisbon Aphasia Examination Battery was applied to a subset of 20 patients. The predictive ability of the Aphasia Rapid Test was assessed at six months, by the aphasia subscale of the National Institutes of Health Stroke Scale.&lt;/p&gt;

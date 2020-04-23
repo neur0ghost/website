@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>amyloid | Miguel Tábuas Pereira</title>
-    <link>/tags/amyloid/</link>
-      <atom:link href="/tags/amyloid/index.xml" rel="self" type="application/rss+xml" />
+    <link>/website/tags/amyloid/</link>
+      <atom:link href="/website/tags/amyloid/index.xml" rel="self" type="application/rss+xml" />
     <description>amyloid</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar</url>
+      <url>/website/img/avatar</url>
       <title>amyloid</title>
-      <link>/tags/amyloid/</link>
+      <link>/website/tags/amyloid/</link>
     </image>
     
     <item>
       <title>Lower CSF Amyloid-Beta 1-42 Predicts a Higher Mortality Rate in Frontotemporal Dementia</title>
-      <link>/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</link>
+      <link>/website/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</guid>
+      <guid>/website/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Frontotemporal lobar degeneration, the neuropathological substrate of frontotemporal dementia (FTD), is characterized by the deposition of protein aggregates, including tau. Evidence has shown concomitant amyloid pathology in some of these patients, which seems to contribute to a more aggressive disease. Our aim was to evaluate cerebrospinal fluid (CSF) amyloid-beta as a predictor of the mortality of FTD patients. We included 99 patients diagnosed with FTD-both behavioral and language variants-with no associated motor neuron disease, from whom a CSF sample was collected. These patients were followed prospectively in our center, and demographic and clinical data were obtained. The survival analysis was carried through a Cox regression model. Patients who died during follow up had a significantly lower CSF amyloid-beta1-42 than those who did not. The survival analysis demonstrated that an increased death rate was associated with a lower CSF amyloid-beta1-42 (HR = 0.999, 95% CI = [0.997, 1.000], p = 0.049). Neither demographic nor clinical variables, nor CSF total tau or p-tau were significantly associated with this endpoint. These results suggest that amyloid deposition in FTD patients may be associated with a higher mortality.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Addition of the Aβ42/40 Ratio to the Cerebrospinal Fluid Biomarker Profile Increases the Predictive Value for Underlying Alzheimer&#39;s Disease Dementia in Mild Cognitive Impairment</title>
-      <link>/publication/addition-of-the-a%CE%B24240-ratio-to-the-cerebrospinal-fluid-biomarker-profile-increases-the-predictive-value-for-underlying-alzheimers-disease-dementia-in-mild-cognitive-impairment/</link>
+      <link>/website/publication/addition-of-the-a%CE%B24240-ratio-to-the-cerebrospinal-fluid-biomarker-profile-increases-the-predictive-value-for-underlying-alzheimers-disease-dementia-in-mild-cognitive-impairment/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/addition-of-the-a%CE%B24240-ratio-to-the-cerebrospinal-fluid-biomarker-profile-increases-the-predictive-value-for-underlying-alzheimers-disease-dementia-in-mild-cognitive-impairment/</guid>
+      <guid>/website/publication/addition-of-the-a%CE%B24240-ratio-to-the-cerebrospinal-fluid-biomarker-profile-increases-the-predictive-value-for-underlying-alzheimers-disease-dementia-in-mild-cognitive-impairment/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Background: Cerebrospinal fluid (CSF) biomarkers have been used to increase the evidence of underlying Alzheimer&amp;rsquo;s disease (AD) pathology in mild cognitive impairment (MCI). However, CSF biomarker-based classification often results in conflicting profiles with controversial prognostic value. Normalization of the CSF Aβ42 concentration to the level of total amyloid beta (Aβ), using the Aβ42/40 ratio, has been shown to improve the distinction between AD and non-AD dementia. Therefore, we evaluated whether the Aβ42/40 ratio would improve MCI categorization and more accurately predict progression to AD.&lt;/p&gt;
 &lt;p&gt;Methods: Our baseline population consisted of 197 MCI patients, of which 144 had a follow-up ≥ 2 years, and comprised the longitudinal study group. To establish our own CSF Aβ42/40 ratio reference value, a group of 168 AD-dementia patients and 66 neurological controls was also included. CSF biomarker-based classification was operationalized according to the framework of the National Institute of Aging-Alzheimer Association criteria for MCI.&lt;/p&gt;

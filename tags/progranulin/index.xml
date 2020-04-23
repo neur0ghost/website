@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>progranulin | Miguel Tábuas Pereira</title>
-    <link>/tags/progranulin/</link>
-      <atom:link href="/tags/progranulin/index.xml" rel="self" type="application/rss+xml" />
+    <link>/website/tags/progranulin/</link>
+      <atom:link href="/website/tags/progranulin/index.xml" rel="self" type="application/rss+xml" />
     <description>progranulin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar</url>
+      <url>/website/img/avatar</url>
       <title>progranulin</title>
-      <link>/tags/progranulin/</link>
+      <link>/website/tags/progranulin/</link>
     </image>
     
     <item>
       <title>Plasma Glial Fibrillary Acidic Protein Is Raised in Progranulin-Associated Frontotemporal Dementia</title>
-      <link>/publication/plasma-glial-fibrillary-acidic-protein-is-raised-in-progranulin-associated-frontotemporal-dementia/</link>
+      <link>/website/publication/plasma-glial-fibrillary-acidic-protein-is-raised-in-progranulin-associated-frontotemporal-dementia/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/plasma-glial-fibrillary-acidic-protein-is-raised-in-progranulin-associated-frontotemporal-dementia/</guid>
+      <guid>/website/publication/plasma-glial-fibrillary-acidic-protein-is-raised-in-progranulin-associated-frontotemporal-dementia/</guid>
       <description>&lt;p&gt;Abstract
 Background: There are few validated fluid biomarkers in frontotemporal dementia (FTD). Glial fibrillary acidic protein (GFAP) is a measure of astrogliosis, a known pathological process of FTD, but has yet to be explored as potential biomarker.&lt;/p&gt;
 &lt;p&gt;Methods: Plasma GFAP and neurofilament light chain (NfL) concentration were measured in 469 individuals enrolled in the Genetic FTD Initiative: 114 C9orf72 expansion carriers (74 presymptomatic, 40 symptomatic), 119 GRN mutation carriers (88 presymptomatic, 31 symptomatic), 53 MAPT mutation carriers (34 presymptomatic, 19 symptomatic) and 183 non-carrier controls. Biomarker measures were compared between groups using linear regression models adjusted for age and sex with family membership included as random effect. Participants underwent standardised clinical assessments including the Mini-Mental State Examination (MMSE), Frontotemporal Lobar Degeneration-Clinical Dementia Rating scale and MRI. Spearman&amp;rsquo;s correlation coefficient was used to investigate the relationship of plasma GFAP to clinical and imaging measures.&lt;/p&gt;
@@ -27,9 +27,9 @@ Background: There are few validated fluid biomarkers in frontotemporal dementia 
     
     <item>
       <title>Age at Symptom Onset and Death and Disease Duration in Genetic Frontotemporal Dementia - An International Retrospective Cohort Study</title>
-      <link>/publication/age-at-symptom-onset-and-death-and-disease-duration-in-genetic-frontotemporal-dementia/</link>
+      <link>/website/publication/age-at-symptom-onset-and-death-and-disease-duration-in-genetic-frontotemporal-dementia/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/age-at-symptom-onset-and-death-and-disease-duration-in-genetic-frontotemporal-dementia/</guid>
+      <guid>/website/publication/age-at-symptom-onset-and-death-and-disease-duration-in-genetic-frontotemporal-dementia/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Background: Frontotemporal dementia is a heterogenous neurodegenerative disorder, with about a third of cases being genetic. Most of this genetic component is accounted for by mutations in GRN, MAPT, and C9orf72. In this study, we aimed to complement previous phenotypic studies by doing an international study of age at symptom onset, age at death, and disease duration in individuals with mutations in GRN, MAPT, and C9orf72.&lt;/p&gt;
 &lt;p&gt;Methods: In this international, retrospective cohort study, we collected data on age at symptom onset, age at death, and disease duration for patients with pathogenic mutations in the GRN and MAPT genes and pathological expansions in the C9orf72 gene through the Frontotemporal Dementia Prevention Initiative and from published papers. We used mixed effects models to explore differences in age at onset, age at death, and disease duration between genetic groups and individual mutations. We also assessed correlations between the age at onset and at death of each individual and the age at onset and at death of their parents and the mean age at onset and at death of their family members. Lastly, we used mixed effects models to investigate the extent to which variability in age at onset and at death could be accounted for by family membership and the specific mutation carried.&lt;/p&gt;

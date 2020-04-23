@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gustavo Cordeiro Santo | Miguel Tábuas Pereira</title>
-    <link>/authors/gustavo-cordeiro-santo/</link>
-      <atom:link href="/authors/gustavo-cordeiro-santo/index.xml" rel="self" type="application/rss+xml" />
+    <link>/website/authors/gustavo-cordeiro-santo/</link>
+      <atom:link href="/website/authors/gustavo-cordeiro-santo/index.xml" rel="self" type="application/rss+xml" />
     <description>Gustavo Cordeiro Santo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar</url>
+      <url>/website/img/avatar</url>
       <title>Gustavo Cordeiro Santo</title>
-      <link>/authors/gustavo-cordeiro-santo/</link>
+      <link>/website/authors/gustavo-cordeiro-santo/</link>
     </image>
     
     <item>
       <title>Clinical Reasoning A 55-year-old Man With Rapidly Progressive Dementia and Parkinsonism</title>
-      <link>/publication/clinical-reasoning-a-55-year-old-man-with-rapidly-progressive-dementia-and-parkinsonism/</link>
+      <link>/website/publication/clinical-reasoning-a-55-year-old-man-with-rapidly-progressive-dementia-and-parkinsonism/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/clinical-reasoning-a-55-year-old-man-with-rapidly-progressive-dementia-and-parkinsonism/</guid>
+      <guid>/website/publication/clinical-reasoning-a-55-year-old-man-with-rapidly-progressive-dementia-and-parkinsonism/</guid>
       <description></description>
     </item>
     

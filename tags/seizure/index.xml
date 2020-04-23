@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>seizure | Miguel Tábuas Pereira</title>
-    <link>/tags/seizure/</link>
-      <atom:link href="/tags/seizure/index.xml" rel="self" type="application/rss+xml" />
+    <link>/website/tags/seizure/</link>
+      <atom:link href="/website/tags/seizure/index.xml" rel="self" type="application/rss+xml" />
     <description>seizure</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar</url>
+      <url>/website/img/avatar</url>
       <title>seizure</title>
-      <link>/tags/seizure/</link>
+      <link>/website/tags/seizure/</link>
     </image>
     
     <item>
       <title>Increased CSF Tau Is Associated With a Higher Risk of Seizures in Patients With Alzheimer&#39;s Disease</title>
-      <link>/publication/increased-csf-tau-is-associated-with-a-higher-risk-of-seizures-in-patients-with-alzheimers-disease/</link>
+      <link>/website/publication/increased-csf-tau-is-associated-with-a-higher-risk-of-seizures-in-patients-with-alzheimers-disease/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/increased-csf-tau-is-associated-with-a-higher-risk-of-seizures-in-patients-with-alzheimers-disease/</guid>
+      <guid>/website/publication/increased-csf-tau-is-associated-with-a-higher-risk-of-seizures-in-patients-with-alzheimers-disease/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Introduction: Neurofibrillary tangles and tau protein, the neuropathological hallmarks of Alzheimer&amp;rsquo;s disease (AD), have been identified in patients with epilepsy. Tau protein was also associated with the modulation of neuronal excitability in animal models of AD.&lt;/p&gt;
 &lt;p&gt;Materials and methods: We evaluated in 292 patients with AD the association between the risk of seizure development and AD cerebrospinal fluid (CSF) biomarkers, demographic characteristics, baseline Mini-Mental State Examination (MMSE) score, comorbidities, and apolipoprotein E status.&lt;/p&gt;

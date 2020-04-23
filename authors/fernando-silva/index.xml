@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fernando Silva | Miguel Tábuas Pereira</title>
-    <link>/authors/fernando-silva/</link>
-      <atom:link href="/authors/fernando-silva/index.xml" rel="self" type="application/rss+xml" />
+    <link>/website/authors/fernando-silva/</link>
+      <atom:link href="/website/authors/fernando-silva/index.xml" rel="self" type="application/rss+xml" />
     <description>Fernando Silva</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar</url>
+      <url>/website/img/avatar</url>
       <title>Fernando Silva</title>
-      <link>/authors/fernando-silva/</link>
+      <link>/website/authors/fernando-silva/</link>
     </image>
     
     <item>
       <title>Intracranial Internal Carotid Artery Wall Calcification in Ischemic Strokes Treated With Thrombolysis</title>
-      <link>/publication/intracranial-internal-carotid-artery-wall-calcification-in-ischemic-strokes-treated-with-thrombolysis/</link>
+      <link>/website/publication/intracranial-internal-carotid-artery-wall-calcification-in-ischemic-strokes-treated-with-thrombolysis/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/intracranial-internal-carotid-artery-wall-calcification-in-ischemic-strokes-treated-with-thrombolysis/</guid>
+      <guid>/website/publication/intracranial-internal-carotid-artery-wall-calcification-in-ischemic-strokes-treated-with-thrombolysis/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Background: Calcifications are an important element of atherosclerotic plaques and have been used as a marker of atherosclerosis and clinical outcome predictor in different vascular territories. CT-scan, performed in the acute ischemic stroke setting, can reliably detect intracranial arterial calcifications.&lt;/p&gt;
 &lt;p&gt;Objectives: To investigate the association between intracranial internal carotid artery calcification and functional outcome, symptomatic intracerebral hemorrhage (sICH), recanalization, and death.&lt;/p&gt;
