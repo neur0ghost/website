@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>c9orf72 | Miguel Tábuas Pereira</title>
-    <link>/website/tags/c9orf72/</link>
-      <atom:link href="/website/tags/c9orf72/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/c9orf72/</link>
+      <atom:link href="/tags/c9orf72/index.xml" rel="self" type="application/rss+xml" />
     <description>c9orf72</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/website/img/avatar</url>
+      <url>/img/avatar</url>
       <title>c9orf72</title>
-      <link>/website/tags/c9orf72/</link>
+      <link>/tags/c9orf72/</link>
     </image>
     
     <item>
       <title>Faster Cortical Thinning and Surface Area Loss in Presymptomatic and Symptomatic C9orf72 Repeat Expansion Adult Carriers</title>
-      <link>/website/publication/faster-cortical-thinning-and-surface-area-loss-in-presymptomatic-and-symptomatic-c9orf72-repeat-expansion-adult-carriers/</link>
+      <link>/publication/faster-cortical-thinning-and-surface-area-loss-in-presymptomatic-and-symptomatic-c9orf72-repeat-expansion-adult-carriers/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/website/publication/faster-cortical-thinning-and-surface-area-loss-in-presymptomatic-and-symptomatic-c9orf72-repeat-expansion-adult-carriers/</guid>
+      <guid>/publication/faster-cortical-thinning-and-surface-area-loss-in-presymptomatic-and-symptomatic-c9orf72-repeat-expansion-adult-carriers/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Objective: C9orf72 expansion is the most common genetic cause of frontotemporal dementia (FTD). We examined aging trajectories of cortical thickness (CTh) and surface area in C9orf72 expansion adult carriers compared to healthy controls to characterize preclinical cerebral changes leading to symptoms.&lt;/p&gt;
 &lt;p&gt;Methods: Data were obtained from the Genetic Frontotemporal Dementia Initiative. T1-weighted MRI scans were processed with CIVET 2.1 to extract vertex-wide CTh and CSA. Symptomatic and presymptomatic subjects were compared to age-matched controls using mixed-effects models, controlling for demographic variables. Aging trajectories were compared between carriers and non-carriers by testing the &amp;lsquo;age by genetic status&amp;rsquo; interaction. False-discovery rate corrections were applied to all vertex-wide analyses.&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Age at Symptom Onset and Death and Disease Duration in Genetic Frontotemporal Dementia - An International Retrospective Cohort Study</title>
-      <link>/website/publication/age-at-symptom-onset-and-death-and-disease-duration-in-genetic-frontotemporal-dementia/</link>
+      <link>/publication/age-at-symptom-onset-and-death-and-disease-duration-in-genetic-frontotemporal-dementia/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/website/publication/age-at-symptom-onset-and-death-and-disease-duration-in-genetic-frontotemporal-dementia/</guid>
+      <guid>/publication/age-at-symptom-onset-and-death-and-disease-duration-in-genetic-frontotemporal-dementia/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Background: Frontotemporal dementia is a heterogenous neurodegenerative disorder, with about a third of cases being genetic. Most of this genetic component is accounted for by mutations in GRN, MAPT, and C9orf72. In this study, we aimed to complement previous phenotypic studies by doing an international study of age at symptom onset, age at death, and disease duration in individuals with mutations in GRN, MAPT, and C9orf72.&lt;/p&gt;
 &lt;p&gt;Methods: In this international, retrospective cohort study, we collected data on age at symptom onset, age at death, and disease duration for patients with pathogenic mutations in the GRN and MAPT genes and pathological expansions in the C9orf72 gene through the Frontotemporal Dementia Prevention Initiative and from published papers. We used mixed effects models to explore differences in age at onset, age at death, and disease duration between genetic groups and individual mutations. We also assessed correlations between the age at onset and at death of each individual and the age at onset and at death of their parents and the mean age at onset and at death of their family members. Lastly, we used mixed effects models to investigate the extent to which variability in age at onset and at death could be accounted for by family membership and the specific mutation carried.&lt;/p&gt;
@@ -41,9 +41,9 @@
     
     <item>
       <title>Increased Risk of Melanoma in C9ORF72 Repeat Expansion Carriers - A Case-Control Study</title>
-      <link>/website/publication/increased-risk-of-melanoma-in-c9orf72-repeat-expansion-carriers-a-case-control-study/</link>
+      <link>/publication/increased-risk-of-melanoma-in-c9orf72-repeat-expansion-carriers-a-case-control-study/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/website/publication/increased-risk-of-melanoma-in-c9orf72-repeat-expansion-carriers-a-case-control-study/</guid>
+      <guid>/publication/increased-risk-of-melanoma-in-c9orf72-repeat-expansion-carriers-a-case-control-study/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Introduction: Amyotrophic lateral sclerosis (ALS) and frontotemporal lobar degeneration (FTLD) are considered part of the same pathological spectrum. There is an increased risk of ALS in patients who have had melanoma. The risk of FTLD in melanoma (or cancer) patients is unknown. We aimed to study if C9ORF72 expansion is linked to a higher prevalence of melanoma.&lt;/p&gt;
 &lt;p&gt;Methods: We selected patients with a diagnosis in the ALS-FTLD spectrum who were tested for pathogenic mutations. Medical history was reviewed, to identify those with pathologically documented melanomas.&lt;/p&gt;

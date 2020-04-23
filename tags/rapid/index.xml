@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rapid | Miguel Tábuas Pereira</title>
-    <link>/website/tags/rapid/</link>
-      <atom:link href="/website/tags/rapid/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/rapid/</link>
+      <atom:link href="/tags/rapid/index.xml" rel="self" type="application/rss+xml" />
     <description>rapid</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/website/img/avatar</url>
+      <url>/img/avatar</url>
       <title>rapid</title>
-      <link>/website/tags/rapid/</link>
+      <link>/tags/rapid/</link>
     </image>
     
     <item>
       <title>Clinical Reasoning A 55-year-old Man With Rapidly Progressive Dementia and Parkinsonism</title>
-      <link>/website/publication/clinical-reasoning-a-55-year-old-man-with-rapidly-progressive-dementia-and-parkinsonism/</link>
+      <link>/publication/clinical-reasoning-a-55-year-old-man-with-rapidly-progressive-dementia-and-parkinsonism/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/website/publication/clinical-reasoning-a-55-year-old-man-with-rapidly-progressive-dementia-and-parkinsonism/</guid>
+      <guid>/publication/clinical-reasoning-a-55-year-old-man-with-rapidly-progressive-dementia-and-parkinsonism/</guid>
       <description></description>
     </item>
     

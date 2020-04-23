@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>stroke | Miguel Tábuas Pereira</title>
-    <link>/website/tags/stroke/</link>
-      <atom:link href="/website/tags/stroke/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/stroke/</link>
+      <atom:link href="/tags/stroke/index.xml" rel="self" type="application/rss+xml" />
     <description>stroke</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/website/img/avatar</url>
+      <url>/img/avatar</url>
       <title>stroke</title>
-      <link>/website/tags/stroke/</link>
+      <link>/tags/stroke/</link>
     </image>
     
     <item>
       <title>Headache Intensity Is Associated With Increased White Matter Lesion Burden in CADASIL Patients</title>
-      <link>/website/publication/headache-intensity-is-associated-with-increased-white-matter-lesion-burden-in-cadasil-patients/</link>
+      <link>/publication/headache-intensity-is-associated-with-increased-white-matter-lesion-burden-in-cadasil-patients/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/website/publication/headache-intensity-is-associated-with-increased-white-matter-lesion-burden-in-cadasil-patients/</guid>
+      <guid>/publication/headache-intensity-is-associated-with-increased-white-matter-lesion-burden-in-cadasil-patients/</guid>
       <description>&lt;p&gt;Abstract
 Objectives: Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is the most common hereditary cause of vascular dementia in adults. Migraine is a major symptom of the disease. We aimed to identify clinical and demographical features of the headache associated with increased cerebral lesion burden in a cohort of CADASIL patients.&lt;/p&gt;
 &lt;p&gt;Methods: Thirty-two patients with CADASIL were enrolled in this cross-sectional study. Demographics data, vascular risk factors and headache characteristics were collected through a structured questionnaire. MRI (3-T) was used to determine white matter hyperintensities burden evaluated by its volume (WMH-V).&lt;/p&gt;
@@ -27,9 +27,9 @@ Objectives: Cerebral autosomal dominant arteriopathy with subcortical infarcts a
     
     <item>
       <title>Single Word Repetition Predicts Long-Term Outcome of Aphasia Caused by an Ischemic Stroke</title>
-      <link>/website/publication/single-word-repetition-predicts-long-term-outcome-of-aphasia-caused-by-an-ischemic-stroke/</link>
+      <link>/publication/single-word-repetition-predicts-long-term-outcome-of-aphasia-caused-by-an-ischemic-stroke/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/website/publication/single-word-repetition-predicts-long-term-outcome-of-aphasia-caused-by-an-ischemic-stroke/</guid>
+      <guid>/publication/single-word-repetition-predicts-long-term-outcome-of-aphasia-caused-by-an-ischemic-stroke/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Purpose: Better understanding of clinical predictors of aphasia outcome is of the utmost importance, in patients&amp;rsquo; rehabilitation planning, expectation management, and further physiopathology understanding. We aimed to identify clinical predictors of long-term poststroke aphasia&amp;rsquo;s outcome.&lt;/p&gt;
 &lt;p&gt;Methods: We conducted a prospective longitudinal observation study of patients with left-Middle Cerebral Artery stroke with aphasia. Patients were evaluated at baseline, day 7 and 6 months with National Institutes of Health Stroke Scale (NIHSS) and Aphasia Rapid Test Other demographic variables and vascular risk factors were collected. A linear regression was performed to identify best predictors of aphasia at 6 months.&lt;/p&gt;
@@ -40,9 +40,9 @@ Objectives: Cerebral autosomal dominant arteriopathy with subcortical infarcts a
     
     <item>
       <title>Intracranial Internal Carotid Artery Wall Calcification in Ischemic Strokes Treated With Thrombolysis</title>
-      <link>/website/publication/intracranial-internal-carotid-artery-wall-calcification-in-ischemic-strokes-treated-with-thrombolysis/</link>
+      <link>/publication/intracranial-internal-carotid-artery-wall-calcification-in-ischemic-strokes-treated-with-thrombolysis/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/website/publication/intracranial-internal-carotid-artery-wall-calcification-in-ischemic-strokes-treated-with-thrombolysis/</guid>
+      <guid>/publication/intracranial-internal-carotid-artery-wall-calcification-in-ischemic-strokes-treated-with-thrombolysis/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Background: Calcifications are an important element of atherosclerotic plaques and have been used as a marker of atherosclerosis and clinical outcome predictor in different vascular territories. CT-scan, performed in the acute ischemic stroke setting, can reliably detect intracranial arterial calcifications.&lt;/p&gt;
 &lt;p&gt;Objectives: To investigate the association between intracranial internal carotid artery calcification and functional outcome, symptomatic intracerebral hemorrhage (sICH), recanalization, and death.&lt;/p&gt;
@@ -55,9 +55,9 @@ Objectives: Cerebral autosomal dominant arteriopathy with subcortical infarcts a
     
     <item>
       <title></title>
-      <link>/website/publication/aphasia-rapid-test-translation-adaptation-and-validation-studies-for-the-portuguese-population/</link>
+      <link>/publication/aphasia-rapid-test-translation-adaptation-and-validation-studies-for-the-portuguese-population/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/website/publication/aphasia-rapid-test-translation-adaptation-and-validation-studies-for-the-portuguese-population/</guid>
+      <guid>/publication/aphasia-rapid-test-translation-adaptation-and-validation-studies-for-the-portuguese-population/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Introduction: Classical aphasia evaluation scales are too long to use in the context of acute stroke or as a monitoring tool. The Aphasia Rapid Test is a 26-point scale developed as a bedside assessment to rate aphasia severity in acute stroke patients in less than 3 minutes. We aimed to adapt and validate this scale for European Portuguese.&lt;/p&gt;
 &lt;p&gt;Material and methods: We evaluated 56 acute stroke patients in the first and in the seventh days post-stroke. In the seventh day, patients were evaluated by two independent raters, to evaluate inter-rater agreement. To study concurrent validity, the Lisbon Aphasia Examination Battery was applied to a subset of 20 patients. The predictive ability of the Aphasia Rapid Test was assessed at six months, by the aphasia subscale of the National Institutes of Health Stroke Scale.&lt;/p&gt;
@@ -69,9 +69,9 @@ Objectives: Cerebral autosomal dominant arteriopathy with subcortical infarcts a
     
     <item>
       <title>Neurosonology Accuracy for Isolated Acute Vestibular Syndromes</title>
-      <link>/website/publication/neurosonology-accuracy-for-isolated-acute-vestibular-syndromes/</link>
+      <link>/publication/neurosonology-accuracy-for-isolated-acute-vestibular-syndromes/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/website/publication/neurosonology-accuracy-for-isolated-acute-vestibular-syndromes/</guid>
+      <guid>/publication/neurosonology-accuracy-for-isolated-acute-vestibular-syndromes/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Objectives: The clinical approach to acute vestibular syndromes is often complex for the physician. Neurosonology offers a noninvasive method to study the cervicocephalic circulation when a vascular etiology is suspected. We aim to evaluate the diagnostic accuracy of a vascular neurosonological exam in isolated acute vestibular syndrome.&lt;/p&gt;
 &lt;p&gt;Methods: All patients submitted to cerebrovascular ultrasound and magnetic resonance imaging during the period between 2011 and 2015 with acute isolated vestibular syndrome. Those with any clinical sign of brainstem lesion on presentation were excluded. All patients performed the neuroimaging study (brain computed tomography and magnetic resonance imaging) and neurologic surveillance. Neurosonological exam included all intra- and extracranial segments of the vertebrobasilar circulation. Positive ultrasound exam was defined as the presence of stenotic or occlusive disease in any of these segments related to the infarcted area.&lt;/p&gt;

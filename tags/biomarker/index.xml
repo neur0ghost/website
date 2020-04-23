@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>biomarker | Miguel Tábuas Pereira</title>
-    <link>/website/tags/biomarker/</link>
-      <atom:link href="/website/tags/biomarker/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/biomarker/</link>
+      <atom:link href="/tags/biomarker/index.xml" rel="self" type="application/rss+xml" />
     <description>biomarker</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/website/img/avatar</url>
+      <url>/img/avatar</url>
       <title>biomarker</title>
-      <link>/website/tags/biomarker/</link>
+      <link>/tags/biomarker/</link>
     </image>
     
     <item>
       <title>Neuronal Pentraxin 2 - A Synapse-Derived CSF Biomarker in Genetic Frontotemporal Dementia</title>
-      <link>/website/publication/neuronal-pentraxin-2-a-synapse-derived-csf-biomarker-in-genetic-frontotemporal-dementia/</link>
+      <link>/publication/neuronal-pentraxin-2-a-synapse-derived-csf-biomarker-in-genetic-frontotemporal-dementia/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/website/publication/neuronal-pentraxin-2-a-synapse-derived-csf-biomarker-in-genetic-frontotemporal-dementia/</guid>
+      <guid>/publication/neuronal-pentraxin-2-a-synapse-derived-csf-biomarker-in-genetic-frontotemporal-dementia/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Introduction: Synapse dysfunction is emerging as an early pathological event in frontotemporal dementia (FTD), however biomarkers are lacking. We aimed to investigate the value of cerebrospinal fluid (CSF) neuronal pentraxins (NPTXs), a family of proteins involved in homeostatic synapse plasticity, as novel biomarkers in genetic FTD.&lt;/p&gt;
 &lt;p&gt;Methods: We included 106 presymptomatic and 54 symptomatic carriers of a pathogenic mutation in GRN, C9orf72 or MAPT, and 70 healthy non-carriers participating in the Genetic Frontotemporal dementia Initiative (GENFI), all of whom had at least one CSF sample. We measured CSF concentrations of NPTX2 using an in-house ELISA, and NPTX1 and NPTX receptor (NPTXR) by Western blot. We correlated NPTX2 with corresponding clinical and neuroimaging datasets as well as with CSF neurofilament light chain (NfL) using linear regression analyses.&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Increased CSF Tau Is Associated With a Higher Risk of Seizures in Patients With Alzheimer&#39;s Disease</title>
-      <link>/website/publication/increased-csf-tau-is-associated-with-a-higher-risk-of-seizures-in-patients-with-alzheimers-disease/</link>
+      <link>/publication/increased-csf-tau-is-associated-with-a-higher-risk-of-seizures-in-patients-with-alzheimers-disease/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/website/publication/increased-csf-tau-is-associated-with-a-higher-risk-of-seizures-in-patients-with-alzheimers-disease/</guid>
+      <guid>/publication/increased-csf-tau-is-associated-with-a-higher-risk-of-seizures-in-patients-with-alzheimers-disease/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Introduction: Neurofibrillary tangles and tau protein, the neuropathological hallmarks of Alzheimer&amp;rsquo;s disease (AD), have been identified in patients with epilepsy. Tau protein was also associated with the modulation of neuronal excitability in animal models of AD.&lt;/p&gt;
 &lt;p&gt;Materials and methods: We evaluated in 292 patients with AD the association between the risk of seizure development and AD cerebrospinal fluid (CSF) biomarkers, demographic characteristics, baseline Mini-Mental State Examination (MMSE) score, comorbidities, and apolipoprotein E status.&lt;/p&gt;
@@ -41,9 +41,9 @@
     
     <item>
       <title>The Head Turning Sign in Dementia and Mild Cognitive Impairment - Its Relationship to Cognition, Behavior, and Cerebrospinal Fluid Biomarkers</title>
-      <link>/website/publication/the-head-turning-sign-in-dementia-and-mild-cognitive-impairment-its-relationship-to-cognition-behavior-and-cerebrospinal-fluid-biomarkers/</link>
+      <link>/publication/the-head-turning-sign-in-dementia-and-mild-cognitive-impairment-its-relationship-to-cognition-behavior-and-cerebrospinal-fluid-biomarkers/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/website/publication/the-head-turning-sign-in-dementia-and-mild-cognitive-impairment-its-relationship-to-cognition-behavior-and-cerebrospinal-fluid-biomarkers/</guid>
+      <guid>/publication/the-head-turning-sign-in-dementia-and-mild-cognitive-impairment-its-relationship-to-cognition-behavior-and-cerebrospinal-fluid-biomarkers/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Background/aims: The head turning sign (HTS) is frequently noticed in clinical practice, but few studies have investigated its etiological and neuropsychological correlates.&lt;/p&gt;
 &lt;p&gt;Methods: The presence and frequency of the HTS was operationalized and prospectively evaluated in patients with Alzheimer&amp;rsquo;s disease (AD), amnestic mild cognitive impairment (MCI), and behavioral-variant frontotemporal dementia (bvFTD). Cerebrospinal fluid (CSF) samples for AD biomarkers were collected. Mini-Mental State Examination, Montreal Cognitive Assessment, Geriatric Depression Scale (GDS), and insight scale scores were ascertained.&lt;/p&gt;
@@ -55,9 +55,9 @@
     
     <item>
       <title>Addition of the Aβ42/40 Ratio to the Cerebrospinal Fluid Biomarker Profile Increases the Predictive Value for Underlying Alzheimer&#39;s Disease Dementia in Mild Cognitive Impairment</title>
-      <link>/website/publication/addition-of-the-a%CE%B24240-ratio-to-the-cerebrospinal-fluid-biomarker-profile-increases-the-predictive-value-for-underlying-alzheimers-disease-dementia-in-mild-cognitive-impairment/</link>
+      <link>/publication/addition-of-the-a%CE%B24240-ratio-to-the-cerebrospinal-fluid-biomarker-profile-increases-the-predictive-value-for-underlying-alzheimers-disease-dementia-in-mild-cognitive-impairment/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/website/publication/addition-of-the-a%CE%B24240-ratio-to-the-cerebrospinal-fluid-biomarker-profile-increases-the-predictive-value-for-underlying-alzheimers-disease-dementia-in-mild-cognitive-impairment/</guid>
+      <guid>/publication/addition-of-the-a%CE%B24240-ratio-to-the-cerebrospinal-fluid-biomarker-profile-increases-the-predictive-value-for-underlying-alzheimers-disease-dementia-in-mild-cognitive-impairment/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Background: Cerebrospinal fluid (CSF) biomarkers have been used to increase the evidence of underlying Alzheimer&amp;rsquo;s disease (AD) pathology in mild cognitive impairment (MCI). However, CSF biomarker-based classification often results in conflicting profiles with controversial prognostic value. Normalization of the CSF Aβ42 concentration to the level of total amyloid beta (Aβ), using the Aβ42/40 ratio, has been shown to improve the distinction between AD and non-AD dementia. Therefore, we evaluated whether the Aβ42/40 ratio would improve MCI categorization and more accurately predict progression to AD.&lt;/p&gt;
 &lt;p&gt;Methods: Our baseline population consisted of 197 MCI patients, of which 144 had a follow-up ≥ 2 years, and comprised the longitudinal study group. To establish our own CSF Aβ42/40 ratio reference value, a group of 168 AD-dementia patients and 66 neurological controls was also included. CSF biomarker-based classification was operationalized according to the framework of the National Institute of Aging-Alzheimer Association criteria for MCI.&lt;/p&gt;
@@ -69,9 +69,9 @@
     
     <item>
       <title>Association Between Butyrylcholinesterase and Cerebrospinal Fluid Biomarkers in Alzheimer&#39;s Disease Patients</title>
-      <link>/website/publication/association-between-butyrylcholinesterase-and-cerebrospinal-fluid-biomarkers-in-alzheimers-disease-patients/</link>
+      <link>/publication/association-between-butyrylcholinesterase-and-cerebrospinal-fluid-biomarkers-in-alzheimers-disease-patients/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/website/publication/association-between-butyrylcholinesterase-and-cerebrospinal-fluid-biomarkers-in-alzheimers-disease-patients/</guid>
+      <guid>/publication/association-between-butyrylcholinesterase-and-cerebrospinal-fluid-biomarkers-in-alzheimers-disease-patients/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;The deficit of cholinergic activity is one of the main findings in Alzheimer&amp;rsquo;s disease (AD), and is related to the synthesis of acetylcholine, and the hydrolysing enzymes, acetylcholinesterase and butyrylcholinesterase (BuChE). Together with the Apolipoprotein E-ε4 allele (ApoE-ε4), the BuChE-K variant has been proposed to increase AD risk in certain populations. In addition, this polymorphism has been associated with a lower capacity to attenuate β-amyloid aggregation. In the present study we explored the interaction of the BuChE-K variant with its activity in CSF, conventional AD biomarkers and ApoE genotype. 217 AD patients and 200 age-matched controls were genotyped for the ApoE and the BuChE-K variant. BuChE activity in CSF, as well as the levels of the CSF-AD biomarkers amyloid-beta 42 (Aβ42), total and hyperphosphorylated tau (t-tau and p-tau) were determined in 88 of these patients. The results showed no significant differences in the BuChE-K variant distribution between patients and controls. No influence of the BuChE-K variant was seen neither in CSF BuChE activity, nor in the levels of Aβ42, t-tau and p-tau in AD patients. ApoE genotype also did not seem to influence CSF BuChE activity. Interestingly, in AD patients, an association between high CSF BuChE activity and increased levels of CSF Aβ42 was shown, particularly in ApoE-ε4 allele carriers. In our population, the BuChE-K variant does not seem to confer risk for AD or to influence the activity of the enzyme in CSF. However, we demonstrated an association between BuChE activity, ApoE-ε4 genotype and CSF Aβ42 levels, highlighting the importance of assessing BuChE activity as a possible modulator of Aβ load in the brain.&lt;/p&gt;
 &lt;p&gt;Keywords: Alzheimeŕs disease; Amyloid-beta 42; Apolipoprotein E; Butyrylcholinesterase; Cerebrospinal fluid.&lt;/p&gt;
@@ -80,9 +80,9 @@
     
     <item>
       <title>Prognosis of Early-Onset vs. Late-Onset Mild Cognitive Impairment -  Comparison of Conversion Rates and Its Predictors</title>
-      <link>/website/publication/prognosis-of-early-onset-vs.-late-onset-mild-cognitive-impairment-comparison-of-conversion-rates-and-its-predictors/</link>
+      <link>/publication/prognosis-of-early-onset-vs.-late-onset-mild-cognitive-impairment-comparison-of-conversion-rates-and-its-predictors/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/website/publication/prognosis-of-early-onset-vs.-late-onset-mild-cognitive-impairment-comparison-of-conversion-rates-and-its-predictors/</guid>
+      <guid>/publication/prognosis-of-early-onset-vs.-late-onset-mild-cognitive-impairment-comparison-of-conversion-rates-and-its-predictors/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Background: Despite having the same histopathological characteristics, early-onset and late-onset Alzheimer&amp;rsquo;s disease (AD) patients show some distinct clinical and neuropsychological profiles. Early Onset Mild Cognitive Impairment (EOMCI) is a less characterized group. The aim of this study is to characterize MCI probably due to AD in terms of the clinical, genetic, Cerebrospinal fluid (CSF) biomarkers profile and conversion rate of EOMCI, compared to the late-onset form (LOMCI).&lt;/p&gt;
 &lt;p&gt;Methods: 159 MCI patients were divided in two groups: 52 EOMCI (onset &amp;lt; 65 years) and 107 LOMCI (onset ≥ 65 years). We investigated differences in neuropsychological scores, clinical variables, ApoE genotype, CSF biomarkers (Aβ42, t-Tau and p-Tau) in both groups. Conversion was ascertained during follow-up.&lt;/p&gt;

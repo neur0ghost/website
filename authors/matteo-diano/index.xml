@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matteo Diano | Miguel Tábuas Pereira</title>
-    <link>/website/authors/matteo-diano/</link>
-      <atom:link href="/website/authors/matteo-diano/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/matteo-diano/</link>
+      <atom:link href="/authors/matteo-diano/index.xml" rel="self" type="application/rss+xml" />
     <description>Matteo Diano</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/website/img/avatar</url>
+      <url>/img/avatar</url>
       <title>Matteo Diano</title>
-      <link>/website/authors/matteo-diano/</link>
+      <link>/authors/matteo-diano/</link>
     </image>
     
     <item>
       <title>The Inner Fluctuations of the Brain in Presymptomatic Frontotemporal Dementia - The Chronnectome Fingerprint</title>
-      <link>/website/publication/the-inner-fluctuations-of-the-brain-in-presymptomatic-frontotemporal-dementia-the-chronnectome-fingerprint/</link>
+      <link>/publication/the-inner-fluctuations-of-the-brain-in-presymptomatic-frontotemporal-dementia-the-chronnectome-fingerprint/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/website/publication/the-inner-fluctuations-of-the-brain-in-presymptomatic-frontotemporal-dementia-the-chronnectome-fingerprint/</guid>
+      <guid>/publication/the-inner-fluctuations-of-the-brain-in-presymptomatic-frontotemporal-dementia-the-chronnectome-fingerprint/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Frontotemporal Dementia (FTD) is preceded by a long period of subtle brain changes, occurring in the absence of overt cognitive symptoms, that need to be still fully characterized. Dynamic network analysis based on resting-state magnetic resonance imaging (rs-fMRI) is a potentially powerful tool for the study of preclinical FTD. In the present study, we employed a &amp;ldquo;chronnectome&amp;rdquo; approach (recurring, time-varying patterns of connectivity) to evaluate measures of dynamic connectivity in 472 at-risk FTD subjects from the Genetic Frontotemporal dementia research Initiative (GENFI) cohort. We considered 249 subjects with FTD-related pathogenetic mutations and 223 mutation non-carriers (HC). Dynamic connectivity was evaluated using independent component analysis and sliding-time window correlation to rs-fMRI data, and meta-state measures of global brain flexibility were extracted. Results show that presymptomatic FTD exhibits diminished dynamic fluidity, visiting less meta-states, shifting less often across them, and travelling through a narrowed meta-state distance, as compared to HC. Dynamic connectivity changes characterize preclinical FTD, arguing for the desynchronization of the inner fluctuations of the brain. These changes antedate clinical symptoms, and might represent an early signature of FTD to be used as a biomarker in clinical trials.&lt;/p&gt;
 &lt;p&gt;Keywords: C9orf72; Chronnectome; Dynamic brain functional connectivity; Frontotemporal dementia; Granulin; Microtuble associate protein tau; Mutation; resting-state fMRI.&lt;/p&gt;

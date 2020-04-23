@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EMG | Miguel Tábuas Pereira</title>
-    <link>/website/tags/emg/</link>
-      <atom:link href="/website/tags/emg/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/emg/</link>
+      <atom:link href="/tags/emg/index.xml" rel="self" type="application/rss+xml" />
     <description>EMG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/website/img/avatar</url>
+      <url>/img/avatar</url>
       <title>EMG</title>
-      <link>/website/tags/emg/</link>
+      <link>/tags/emg/</link>
     </image>
     
     <item>
       <title>Tremor Frequency Assessment by iPhone® Applications - Correlation With EMG Analysis</title>
-      <link>/website/publication/tremor-frequency-assessment-by-iphone-applications-correlation-with-emg-analysis/</link>
+      <link>/publication/tremor-frequency-assessment-by-iphone-applications-correlation-with-emg-analysis/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/website/publication/tremor-frequency-assessment-by-iphone-applications-correlation-with-emg-analysis/</guid>
+      <guid>/publication/tremor-frequency-assessment-by-iphone-applications-correlation-with-emg-analysis/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Tremor frequency analysis is usually performed by EMG studies but accelerometers are progressively being more used. The iPhone® contains an accelerometer and many applications claim to be capable of measuring tremor frequency. We tested three applications in twenty-two patients with a diagnosis of PD, ET and Holmes&amp;rsquo; tremor. EMG needle assessment as well as accelerometry was performed at the same time. There was very strong correlation (Pearson &amp;gt;0.8, p &amp;lt; 0.001) between the three applications, the EMG needle and the accelerometry. Our data suggests the apps LiftPulse®, iSeismometer® and Studymytremor® are a reliable alternative to the EMG for tremor frequency assessment.&lt;/p&gt;
 &lt;p&gt;Keywords: EMG; Tremor; accelerometers; frequency; iPhone; smartphones.&lt;/p&gt;

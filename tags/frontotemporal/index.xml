@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>frontotemporal | Miguel Tábuas Pereira</title>
-    <link>/website/tags/frontotemporal/</link>
-      <atom:link href="/website/tags/frontotemporal/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/frontotemporal/</link>
+      <atom:link href="/tags/frontotemporal/index.xml" rel="self" type="application/rss+xml" />
     <description>frontotemporal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/website/img/avatar</url>
+      <url>/img/avatar</url>
       <title>frontotemporal</title>
-      <link>/website/tags/frontotemporal/</link>
+      <link>/tags/frontotemporal/</link>
     </image>
     
     <item>
       <title>Faster Cortical Thinning and Surface Area Loss in Presymptomatic and Symptomatic C9orf72 Repeat Expansion Adult Carriers</title>
-      <link>/website/publication/faster-cortical-thinning-and-surface-area-loss-in-presymptomatic-and-symptomatic-c9orf72-repeat-expansion-adult-carriers/</link>
+      <link>/publication/faster-cortical-thinning-and-surface-area-loss-in-presymptomatic-and-symptomatic-c9orf72-repeat-expansion-adult-carriers/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/website/publication/faster-cortical-thinning-and-surface-area-loss-in-presymptomatic-and-symptomatic-c9orf72-repeat-expansion-adult-carriers/</guid>
+      <guid>/publication/faster-cortical-thinning-and-surface-area-loss-in-presymptomatic-and-symptomatic-c9orf72-repeat-expansion-adult-carriers/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Objective: C9orf72 expansion is the most common genetic cause of frontotemporal dementia (FTD). We examined aging trajectories of cortical thickness (CTh) and surface area in C9orf72 expansion adult carriers compared to healthy controls to characterize preclinical cerebral changes leading to symptoms.&lt;/p&gt;
 &lt;p&gt;Methods: Data were obtained from the Genetic Frontotemporal Dementia Initiative. T1-weighted MRI scans were processed with CIVET 2.1 to extract vertex-wide CTh and CSA. Symptomatic and presymptomatic subjects were compared to age-matched controls using mixed-effects models, controlling for demographic variables. Aging trajectories were compared between carriers and non-carriers by testing the &amp;lsquo;age by genetic status&amp;rsquo; interaction. False-discovery rate corrections were applied to all vertex-wide analyses.&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Neuronal Pentraxin 2 - A Synapse-Derived CSF Biomarker in Genetic Frontotemporal Dementia</title>
-      <link>/website/publication/neuronal-pentraxin-2-a-synapse-derived-csf-biomarker-in-genetic-frontotemporal-dementia/</link>
+      <link>/publication/neuronal-pentraxin-2-a-synapse-derived-csf-biomarker-in-genetic-frontotemporal-dementia/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/website/publication/neuronal-pentraxin-2-a-synapse-derived-csf-biomarker-in-genetic-frontotemporal-dementia/</guid>
+      <guid>/publication/neuronal-pentraxin-2-a-synapse-derived-csf-biomarker-in-genetic-frontotemporal-dementia/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Introduction: Synapse dysfunction is emerging as an early pathological event in frontotemporal dementia (FTD), however biomarkers are lacking. We aimed to investigate the value of cerebrospinal fluid (CSF) neuronal pentraxins (NPTXs), a family of proteins involved in homeostatic synapse plasticity, as novel biomarkers in genetic FTD.&lt;/p&gt;
 &lt;p&gt;Methods: We included 106 presymptomatic and 54 symptomatic carriers of a pathogenic mutation in GRN, C9orf72 or MAPT, and 70 healthy non-carriers participating in the Genetic Frontotemporal dementia Initiative (GENFI), all of whom had at least one CSF sample. We measured CSF concentrations of NPTX2 using an in-house ELISA, and NPTX1 and NPTX receptor (NPTXR) by Western blot. We correlated NPTX2 with corresponding clinical and neuroimaging datasets as well as with CSF neurofilament light chain (NfL) using linear regression analyses.&lt;/p&gt;
@@ -40,9 +40,9 @@
     
     <item>
       <title>Plasma Glial Fibrillary Acidic Protein Is Raised in Progranulin-Associated Frontotemporal Dementia</title>
-      <link>/website/publication/plasma-glial-fibrillary-acidic-protein-is-raised-in-progranulin-associated-frontotemporal-dementia/</link>
+      <link>/publication/plasma-glial-fibrillary-acidic-protein-is-raised-in-progranulin-associated-frontotemporal-dementia/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/website/publication/plasma-glial-fibrillary-acidic-protein-is-raised-in-progranulin-associated-frontotemporal-dementia/</guid>
+      <guid>/publication/plasma-glial-fibrillary-acidic-protein-is-raised-in-progranulin-associated-frontotemporal-dementia/</guid>
       <description>&lt;p&gt;Abstract
 Background: There are few validated fluid biomarkers in frontotemporal dementia (FTD). Glial fibrillary acidic protein (GFAP) is a measure of astrogliosis, a known pathological process of FTD, but has yet to be explored as potential biomarker.&lt;/p&gt;
 &lt;p&gt;Methods: Plasma GFAP and neurofilament light chain (NfL) concentration were measured in 469 individuals enrolled in the Genetic FTD Initiative: 114 C9orf72 expansion carriers (74 presymptomatic, 40 symptomatic), 119 GRN mutation carriers (88 presymptomatic, 31 symptomatic), 53 MAPT mutation carriers (34 presymptomatic, 19 symptomatic) and 183 non-carrier controls. Biomarker measures were compared between groups using linear regression models adjusted for age and sex with family membership included as random effect. Participants underwent standardised clinical assessments including the Mini-Mental State Examination (MMSE), Frontotemporal Lobar Degeneration-Clinical Dementia Rating scale and MRI. Spearman&amp;rsquo;s correlation coefficient was used to investigate the relationship of plasma GFAP to clinical and imaging measures.&lt;/p&gt;
@@ -53,9 +53,9 @@ Background: There are few validated fluid biomarkers in frontotemporal dementia 
     
     <item>
       <title>Age at Symptom Onset and Death and Disease Duration in Genetic Frontotemporal Dementia - An International Retrospective Cohort Study</title>
-      <link>/website/publication/age-at-symptom-onset-and-death-and-disease-duration-in-genetic-frontotemporal-dementia/</link>
+      <link>/publication/age-at-symptom-onset-and-death-and-disease-duration-in-genetic-frontotemporal-dementia/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/website/publication/age-at-symptom-onset-and-death-and-disease-duration-in-genetic-frontotemporal-dementia/</guid>
+      <guid>/publication/age-at-symptom-onset-and-death-and-disease-duration-in-genetic-frontotemporal-dementia/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Background: Frontotemporal dementia is a heterogenous neurodegenerative disorder, with about a third of cases being genetic. Most of this genetic component is accounted for by mutations in GRN, MAPT, and C9orf72. In this study, we aimed to complement previous phenotypic studies by doing an international study of age at symptom onset, age at death, and disease duration in individuals with mutations in GRN, MAPT, and C9orf72.&lt;/p&gt;
 &lt;p&gt;Methods: In this international, retrospective cohort study, we collected data on age at symptom onset, age at death, and disease duration for patients with pathogenic mutations in the GRN and MAPT genes and pathological expansions in the C9orf72 gene through the Frontotemporal Dementia Prevention Initiative and from published papers. We used mixed effects models to explore differences in age at onset, age at death, and disease duration between genetic groups and individual mutations. We also assessed correlations between the age at onset and at death of each individual and the age at onset and at death of their parents and the mean age at onset and at death of their family members. Lastly, we used mixed effects models to investigate the extent to which variability in age at onset and at death could be accounted for by family membership and the specific mutation carried.&lt;/p&gt;
@@ -67,9 +67,9 @@ Background: There are few validated fluid biomarkers in frontotemporal dementia 
     
     <item>
       <title>Lower CSF Amyloid-Beta 1-42 Predicts a Higher Mortality Rate in Frontotemporal Dementia</title>
-      <link>/website/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</link>
+      <link>/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/website/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</guid>
+      <guid>/publication/lower-csf-amyloid-beta-1-42-predicts-a-higher-mortality-rate-in-ftd/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Frontotemporal lobar degeneration, the neuropathological substrate of frontotemporal dementia (FTD), is characterized by the deposition of protein aggregates, including tau. Evidence has shown concomitant amyloid pathology in some of these patients, which seems to contribute to a more aggressive disease. Our aim was to evaluate cerebrospinal fluid (CSF) amyloid-beta as a predictor of the mortality of FTD patients. We included 99 patients diagnosed with FTD-both behavioral and language variants-with no associated motor neuron disease, from whom a CSF sample was collected. These patients were followed prospectively in our center, and demographic and clinical data were obtained. The survival analysis was carried through a Cox regression model. Patients who died during follow up had a significantly lower CSF amyloid-beta1-42 than those who did not. The survival analysis demonstrated that an increased death rate was associated with a lower CSF amyloid-beta1-42 (HR = 0.999, 95% CI = [0.997, 1.000], p = 0.049). Neither demographic nor clinical variables, nor CSF total tau or p-tau were significantly associated with this endpoint. These results suggest that amyloid deposition in FTD patients may be associated with a higher mortality.&lt;/p&gt;
 </description>
@@ -77,9 +77,9 @@ Background: There are few validated fluid biomarkers in frontotemporal dementia 
     
     <item>
       <title>Serum Neurofilament Light Chain in Genetic Frontotemporal Dementia - A Longitudinal, Multicentre Cohort Study</title>
-      <link>/website/publication/serum-neurofilament-light-chain-in-genetic-frontotemporal-dementia-a-longitudinal-multicentre-cohort-study/</link>
+      <link>/publication/serum-neurofilament-light-chain-in-genetic-frontotemporal-dementia-a-longitudinal-multicentre-cohort-study/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/website/publication/serum-neurofilament-light-chain-in-genetic-frontotemporal-dementia-a-longitudinal-multicentre-cohort-study/</guid>
+      <guid>/publication/serum-neurofilament-light-chain-in-genetic-frontotemporal-dementia-a-longitudinal-multicentre-cohort-study/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Background: Neurofilament light chain (NfL) is a promising blood biomarker in genetic frontotemporal dementia, with elevated concentrations in symptomatic carriers of mutations in GRN, C9orf72, and MAPT. A better understanding of NfL dynamics is essential for upcoming therapeutic trials. We aimed to study longitudinal NfL trajectories in people with presymptomatic and symptomatic genetic frontotemporal dementia.&lt;/p&gt;
 &lt;p&gt;Methods: We recruited participants from 14 centres collaborating in the Genetic Frontotemporal Dementia Initiative (GENFI), which is a multicentre cohort study of families with genetic frontotemporal dementia done across Europe and Canada. Eligible participants (aged ≥18 years) either had frontotemporal dementia due to a pathogenic mutation in GRN, C9orf72, or MAPT (symptomatic mutation carriers) or were healthy at-risk first-degree relatives (either presymptomatic mutation carriers or non-carriers), and had at least two serum samples with a time interval of 6 months or more. Participants were excluded if they had neurological comorbidities that were likely to affect NfL, including cerebrovascular events. We measured NfL longitudinally in serum samples collected between June 8, 2012, and Dec 8, 2017, through follow-up visits annually or every 2 years, which also included MRI and neuropsychological assessments. Using mixed-effects models, we analysed NfL changes over time and correlated them with longitudinal imaging and clinical parameters, controlling for age, sex, and study site. The primary outcome was the course of NfL over time in the various stages of genetic frontotemporal dementia.&lt;/p&gt;
@@ -91,9 +91,9 @@ Background: There are few validated fluid biomarkers in frontotemporal dementia 
     
     <item>
       <title>Education Modulates Brain Maintenance in Presymptomatic Frontotemporal Dementia</title>
-      <link>/website/publication/education-modulates-brain-maintenance-in-presymptomatic-frontotemporal-dementia/</link>
+      <link>/publication/education-modulates-brain-maintenance-in-presymptomatic-frontotemporal-dementia/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/website/publication/education-modulates-brain-maintenance-in-presymptomatic-frontotemporal-dementia/</guid>
+      <guid>/publication/education-modulates-brain-maintenance-in-presymptomatic-frontotemporal-dementia/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Objective: Cognitively engaging lifestyles have been associated with reduced risk of conversion to dementia. Multiple mechanisms have been advocated, including increased brain volumes (ie, brain reserve) and reduced disease progression (ie, brain maintenance). In cross-sectional studies of presymptomatic frontotemporal dementia (FTD), higher education has been related to increased grey matter volume. Here, we examine the effect of education on grey matter loss over time.&lt;/p&gt;
 &lt;p&gt;Methods: Two-hundred twenty-nine subjects at-risk of carrying a pathogenic mutation leading to FTD underwent longitudinal cognitive assessment and T1-weighted MRI at baseline and at 1 year follow-up. The first principal component score of the graph-Laplacian Principal Component Analysis on 112 grey matter region-of-interest volumes was used to summarise the grey matter volume (GMV). The effects of education on cognitive performances and GMV at baseline and on the change between 1 year follow-up and baseline (slope) were tested by Structural Equation Modelling.&lt;/p&gt;
@@ -105,9 +105,9 @@ Background: There are few validated fluid biomarkers in frontotemporal dementia 
     
     <item>
       <title>Functional Network Resilience to Pathology in Presymptomatic Genetic Frontotemporal Dementia decline presymptomatically</title>
-      <link>/website/publication/functional-network-resilience-to-pathology-in-presymptomatic-genetic-frontotemporal-dementia/</link>
+      <link>/publication/functional-network-resilience-to-pathology-in-presymptomatic-genetic-frontotemporal-dementia/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/website/publication/functional-network-resilience-to-pathology-in-presymptomatic-genetic-frontotemporal-dementia/</guid>
+      <guid>/publication/functional-network-resilience-to-pathology-in-presymptomatic-genetic-frontotemporal-dementia/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;The presymptomatic phase of neurodegenerative diseases are characterized by structural brain changes without significant clinical features. We set out to investigate the contribution of functional network resilience to preserved cognition in presymptomatic genetic frontotemporal dementia. We studied 172 people from families carrying genetic abnormalities in C9orf72, MAPT, or PGRN. Networks were extracted from functional MRI data and assessed using graph theoretical analysis. We found that despite loss of both brain volume and functional connections, there is maintenance of an efficient topological organization of the brain&amp;rsquo;s functional network in the years leading up to the estimated age of frontotemporal dementia symptom onset. After this point, functional network efficiency declines markedly. Reduction in connectedness was most marked in highly connected hub regions. Measures of topological efficiency of the brain&amp;rsquo;s functional network and organization predicted cognitive dysfunction in domains related to symptomatic frontotemporal dementia and connectivity correlated with brain volume loss in frontotemporal dementia. We propose that maintaining the efficient organization of the brain&amp;rsquo;s functional network supports cognitive health even as atrophy and connectivity decline presymptomatically.&lt;/p&gt;
 </description>
@@ -115,9 +115,9 @@ Background: There are few validated fluid biomarkers in frontotemporal dementia 
     
     <item>
       <title>The Inner Fluctuations of the Brain in Presymptomatic Frontotemporal Dementia - The Chronnectome Fingerprint</title>
-      <link>/website/publication/the-inner-fluctuations-of-the-brain-in-presymptomatic-frontotemporal-dementia-the-chronnectome-fingerprint/</link>
+      <link>/publication/the-inner-fluctuations-of-the-brain-in-presymptomatic-frontotemporal-dementia-the-chronnectome-fingerprint/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/website/publication/the-inner-fluctuations-of-the-brain-in-presymptomatic-frontotemporal-dementia-the-chronnectome-fingerprint/</guid>
+      <guid>/publication/the-inner-fluctuations-of-the-brain-in-presymptomatic-frontotemporal-dementia-the-chronnectome-fingerprint/</guid>
       <description>&lt;p&gt;Abstract&lt;/p&gt;
 &lt;p&gt;Frontotemporal Dementia (FTD) is preceded by a long period of subtle brain changes, occurring in the absence of overt cognitive symptoms, that need to be still fully characterized. Dynamic network analysis based on resting-state magnetic resonance imaging (rs-fMRI) is a potentially powerful tool for the study of preclinical FTD. In the present study, we employed a &amp;ldquo;chronnectome&amp;rdquo; approach (recurring, time-varying patterns of connectivity) to evaluate measures of dynamic connectivity in 472 at-risk FTD subjects from the Genetic Frontotemporal dementia research Initiative (GENFI) cohort. We considered 249 subjects with FTD-related pathogenetic mutations and 223 mutation non-carriers (HC). Dynamic connectivity was evaluated using independent component analysis and sliding-time window correlation to rs-fMRI data, and meta-state measures of global brain flexibility were extracted. Results show that presymptomatic FTD exhibits diminished dynamic fluidity, visiting less meta-states, shifting less often across them, and travelling through a narrowed meta-state distance, as compared to HC. Dynamic connectivity changes characterize preclinical FTD, arguing for the desynchronization of the inner fluctuations of the brain. These changes antedate clinical symptoms, and might represent an early signature of FTD to be used as a biomarker in clinical trials.&lt;/p&gt;
 &lt;p&gt;Keywords: C9orf72; Chronnectome; Dynamic brain functional connectivity; Frontotemporal dementia; Granulin; Microtuble associate protein tau; Mutation; resting-state fMRI.&lt;/p&gt;

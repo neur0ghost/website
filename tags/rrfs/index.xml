@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RRFS | Miguel Tábuas Pereira</title>
-    <link>/website/tags/rrfs/</link>
-      <atom:link href="/website/tags/rrfs/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/rrfs/</link>
+      <atom:link href="/tags/rrfs/index.xml" rel="self" type="application/rss+xml" />
     <description>RRFS</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/website/img/avatar</url>
+      <url>/img/avatar</url>
       <title>RRFS</title>
-      <link>/website/tags/rrfs/</link>
+      <link>/tags/rrfs/</link>
     </image>
     
     <item>
       <title>European Academy of Neurology - Resident and Research Fellow Section - Innovations and Future Direction in 2017</title>
-      <link>/website/publication/european-academy-of-neurology-resident-and-research-fellow-section-innovations-and-future-direction-in-2017/</link>
+      <link>/publication/european-academy-of-neurology-resident-and-research-fellow-section-innovations-and-future-direction-in-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/website/publication/european-academy-of-neurology-resident-and-research-fellow-section-innovations-and-future-direction-in-2017/</guid>
+      <guid>/publication/european-academy-of-neurology-resident-and-research-fellow-section-innovations-and-future-direction-in-2017/</guid>
       <description></description>
     </item>
     
