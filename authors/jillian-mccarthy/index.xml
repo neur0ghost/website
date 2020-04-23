@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jillian McCarthy | Miguel Tábuas Pereira</title>
+    <link>/authors/jillian-mccarthy/</link>
+      <atom:link href="/authors/jillian-mccarthy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jillian McCarthy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar</url>
+      <title>Jillian McCarthy</title>
+      <link>/authors/jillian-mccarthy/</link>
+    </image>
+    
+    <item>
+      <title>Faster Cortical Thinning and Surface Area Loss in Presymptomatic and Symptomatic C9orf72 Repeat Expansion Adult Carriers</title>
+      <link>/publication/faster-cortical-thinning-and-surface-area-loss-in-presymptomatic-and-symptomatic-c9orf72-repeat-expansion-adult-carriers/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/faster-cortical-thinning-and-surface-area-loss-in-presymptomatic-and-symptomatic-c9orf72-repeat-expansion-adult-carriers/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Objective: C9orf72 expansion is the most common genetic cause of frontotemporal dementia (FTD). We examined aging trajectories of cortical thickness (CTh) and surface area in C9orf72 expansion adult carriers compared to healthy controls to characterize preclinical cerebral changes leading to symptoms.&lt;/p&gt;
+&lt;p&gt;Methods: Data were obtained from the Genetic Frontotemporal Dementia Initiative. T1-weighted MRI scans were processed with CIVET 2.1 to extract vertex-wide CTh and CSA. Symptomatic and presymptomatic subjects were compared to age-matched controls using mixed-effects models, controlling for demographic variables. Aging trajectories were compared between carriers and non-carriers by testing the &amp;lsquo;age by genetic status&amp;rsquo; interaction. False-discovery rate corrections were applied to all vertex-wide analyses.&lt;/p&gt;
+&lt;p&gt;Results: The sample included 640 scans from 386 subjects, including 54 symptomatic C9orf72 carriers (72.2% behavioral variant FTD), 83 asymptomatic carriers and 249 controls (age range 18-86). Symptomatic carriers showed fairly symmetric reduction in CTh/CSA in most of the frontal lobes, in addition to large temporo-parietal areas. Presymptomatic subjects had reduced CTh/CSA in more restricted areas of the medial fronto-parietal lobes, in addition to scattered lateral fronto-parieto-temporal areas. These differences were explained by faster cortical thinning linearly throughout adulthood in a similar anatomical distribution, with differences emerging in the early 30s. CSA reduction was also faster in mutation carriers predominantly in the ventro-frontal regions.&lt;/p&gt;
+&lt;p&gt;Interpretation: C9orf72 mutation carriers have faster cortical thinning and surface loss throughout adulthood in regions that show atrophy in symptomatic subjects. This suggests that the pathogenic effects of the mutation lead to structural cerebral changes decades prior to symptoms.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>presymptomatic | Miguel Tábuas Pereira</title>
+    <link>/tags/presymptomatic/</link>
+      <atom:link href="/tags/presymptomatic/index.xml" rel="self" type="application/rss+xml" />
+    <description>presymptomatic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar</url>
+      <title>presymptomatic</title>
+      <link>/tags/presymptomatic/</link>
+    </image>
+    
+    <item>
+      <title>Education Modulates Brain Maintenance in Presymptomatic Frontotemporal Dementia</title>
+      <link>/publication/education-modulates-brain-maintenance-in-presymptomatic-frontotemporal-dementia/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/education-modulates-brain-maintenance-in-presymptomatic-frontotemporal-dementia/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Objective: Cognitively engaging lifestyles have been associated with reduced risk of conversion to dementia. Multiple mechanisms have been advocated, including increased brain volumes (ie, brain reserve) and reduced disease progression (ie, brain maintenance). In cross-sectional studies of presymptomatic frontotemporal dementia (FTD), higher education has been related to increased grey matter volume. Here, we examine the effect of education on grey matter loss over time.&lt;/p&gt;
+&lt;p&gt;Methods: Two-hundred twenty-nine subjects at-risk of carrying a pathogenic mutation leading to FTD underwent longitudinal cognitive assessment and T1-weighted MRI at baseline and at 1 year follow-up. The first principal component score of the graph-Laplacian Principal Component Analysis on 112 grey matter region-of-interest volumes was used to summarise the grey matter volume (GMV). The effects of education on cognitive performances and GMV at baseline and on the change between 1 year follow-up and baseline (slope) were tested by Structural Equation Modelling.&lt;/p&gt;
+&lt;p&gt;Results: Highly educated at-risk subjects had better cognition and higher grey matter volume at baseline; moreover, higher educational attainment was associated with slower loss of grey matter over time in mutation carriers.&lt;/p&gt;
+&lt;p&gt;Conclusions: This longitudinal study demonstrates that even in presence of ongoing pathological processes, education may facilitate both brain reserve and brain maintenance in the presymptomatic phase of genetic FTD.&lt;/p&gt;
+&lt;p&gt;Keywords: brain maintenance; brain reserve; frontotemporal dementia (FTD); graph theory; magnetic resonance imaging (MRI).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

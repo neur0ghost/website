@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jackie M Poos | Miguel Tábuas Pereira</title>
+    <link>/authors/jackie-m-poos/</link>
+      <atom:link href="/authors/jackie-m-poos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jackie M Poos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar</url>
+      <title>Jackie M Poos</title>
+      <link>/authors/jackie-m-poos/</link>
+    </image>
+    
+    <item>
+      <title>Serum Neurofilament Light Chain in Genetic Frontotemporal Dementia - A Longitudinal, Multicentre Cohort Study</title>
+      <link>/publication/serum-neurofilament-light-chain-in-genetic-frontotemporal-dementia-a-longitudinal-multicentre-cohort-study/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/serum-neurofilament-light-chain-in-genetic-frontotemporal-dementia-a-longitudinal-multicentre-cohort-study/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Background: Neurofilament light chain (NfL) is a promising blood biomarker in genetic frontotemporal dementia, with elevated concentrations in symptomatic carriers of mutations in GRN, C9orf72, and MAPT. A better understanding of NfL dynamics is essential for upcoming therapeutic trials. We aimed to study longitudinal NfL trajectories in people with presymptomatic and symptomatic genetic frontotemporal dementia.&lt;/p&gt;
+&lt;p&gt;Methods: We recruited participants from 14 centres collaborating in the Genetic Frontotemporal Dementia Initiative (GENFI), which is a multicentre cohort study of families with genetic frontotemporal dementia done across Europe and Canada. Eligible participants (aged ≥18 years) either had frontotemporal dementia due to a pathogenic mutation in GRN, C9orf72, or MAPT (symptomatic mutation carriers) or were healthy at-risk first-degree relatives (either presymptomatic mutation carriers or non-carriers), and had at least two serum samples with a time interval of 6 months or more. Participants were excluded if they had neurological comorbidities that were likely to affect NfL, including cerebrovascular events. We measured NfL longitudinally in serum samples collected between June 8, 2012, and Dec 8, 2017, through follow-up visits annually or every 2 years, which also included MRI and neuropsychological assessments. Using mixed-effects models, we analysed NfL changes over time and correlated them with longitudinal imaging and clinical parameters, controlling for age, sex, and study site. The primary outcome was the course of NfL over time in the various stages of genetic frontotemporal dementia.&lt;/p&gt;
+&lt;p&gt;Findings: We included 59 symptomatic carriers and 149 presymptomatic carriers of a mutation in GRN, C9orf72, or MAPT, and 127 non-carriers. Nine presymptomatic carriers became symptomatic during follow-up (so-called converters). Baseline NfL was elevated in symptomatic carriers (median 52 pg/mL [IQR 24-69]) compared with presymptomatic carriers (9 pg/mL [6-13]; p&amp;lt;0·0001) and non-carriers (8 pg/mL [6-11]; p&amp;lt;0·0001), and was higher in converters than in non-converting carriers (19 pg/mL [17-28] vs 8 pg/mL [6-11]; p=0·0007; adjusted for age). During follow-up, NfL increased in converters (b=0·097 [SE 0·018]; p&amp;lt;0·0001). In symptomatic mutation carriers overall, NfL did not change during follow-up (b=0·017 [SE 0·010]; p=0·101) and remained elevated. Rates of NfL change over time were associated with rate of decline in Mini Mental State Examination (b=-94·7 [SE 33·9]; p=0·003) and atrophy rate in several grey matter regions, but not with change in Frontotemporal Lobar Degeneration-Clinical Dementia Rating scale score (b=-3·46 [SE 46·3]; p=0·941).&lt;/p&gt;
+&lt;p&gt;Interpretation: Our findings show the value of blood NfL as a disease progression biomarker in genetic frontotemporal dementia and suggest that longitudinal NfL measurements could identify mutation carriers approaching symptom onset and capture rates of brain atrophy. The characterisation of NfL over the course of disease provides valuable information for its use as a treatment effect marker.&lt;/p&gt;
+&lt;p&gt;Funding: ZonMw and the Bluefield project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

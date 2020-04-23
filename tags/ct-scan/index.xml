@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CT-scan | Miguel Tábuas Pereira</title>
+    <link>/tags/ct-scan/</link>
+      <atom:link href="/tags/ct-scan/index.xml" rel="self" type="application/rss+xml" />
+    <description>CT-scan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar</url>
+      <title>CT-scan</title>
+      <link>/tags/ct-scan/</link>
+    </image>
+    
+    <item>
+      <title>Intracranial Internal Carotid Artery Wall Calcification in Ischemic Strokes Treated With Thrombolysis</title>
+      <link>/publication/intracranial-internal-carotid-artery-wall-calcification-in-ischemic-strokes-treated-with-thrombolysis/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/intracranial-internal-carotid-artery-wall-calcification-in-ischemic-strokes-treated-with-thrombolysis/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Background: Calcifications are an important element of atherosclerotic plaques and have been used as a marker of atherosclerosis and clinical outcome predictor in different vascular territories. CT-scan, performed in the acute ischemic stroke setting, can reliably detect intracranial arterial calcifications.&lt;/p&gt;
+&lt;p&gt;Objectives: To investigate the association between intracranial internal carotid artery calcification and functional outcome, symptomatic intracerebral hemorrhage (sICH), recanalization, and death.&lt;/p&gt;
+&lt;p&gt;Methods: We included 396 consecutive ischemic stroke patients submitted to recombinant tissue plasminogen activator treatment between January 2011 and September 2014. Admission CT-scans were reviewed to calculate the Total Carotid Syphon Calcification score. Patients were followed for up to at least 6 months post-stroke or until death. Outcome measures included evaluation of recanalization on the first 24 h (transcranial color coded Doppler or angio-CT), sICH, and assessment of functional outcome at 3 months after stroke (using modified Rankin scale).&lt;/p&gt;
+&lt;p&gt;Results: Carotid artery wall calcification did not predict sICH, recanalization or any good outcome. However, it was a statistically significant predictor of death (OR 1.102, 95% CI [1.004-1.211], p = 0.042).&lt;/p&gt;
+&lt;p&gt;Discussion: Intracranial carotid artery calcification does not increase the risk of thrombolysis-induced sICH. Patients with higher grade of carotid artery wall calcification may have a higher mortality rate.&lt;/p&gt;
+&lt;p&gt;Keywords: Calcification; Carotid; Hemorrhage; Outcome; Stroke; Thrombolysis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

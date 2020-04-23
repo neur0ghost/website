@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Murray Grossman | Miguel Tábuas Pereira</title>
+    <link>/authors/murray-grossman/</link>
+      <atom:link href="/authors/murray-grossman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Murray Grossman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar</url>
+      <title>Murray Grossman</title>
+      <link>/authors/murray-grossman/</link>
+    </image>
+    
+    <item>
+      <title>Age at Symptom Onset and Death and Disease Duration in Genetic Frontotemporal Dementia - An International Retrospective Cohort Study</title>
+      <link>/publication/age-at-symptom-onset-and-death-and-disease-duration-in-genetic-frontotemporal-dementia/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/age-at-symptom-onset-and-death-and-disease-duration-in-genetic-frontotemporal-dementia/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Background: Frontotemporal dementia is a heterogenous neurodegenerative disorder, with about a third of cases being genetic. Most of this genetic component is accounted for by mutations in GRN, MAPT, and C9orf72. In this study, we aimed to complement previous phenotypic studies by doing an international study of age at symptom onset, age at death, and disease duration in individuals with mutations in GRN, MAPT, and C9orf72.&lt;/p&gt;
+&lt;p&gt;Methods: In this international, retrospective cohort study, we collected data on age at symptom onset, age at death, and disease duration for patients with pathogenic mutations in the GRN and MAPT genes and pathological expansions in the C9orf72 gene through the Frontotemporal Dementia Prevention Initiative and from published papers. We used mixed effects models to explore differences in age at onset, age at death, and disease duration between genetic groups and individual mutations. We also assessed correlations between the age at onset and at death of each individual and the age at onset and at death of their parents and the mean age at onset and at death of their family members. Lastly, we used mixed effects models to investigate the extent to which variability in age at onset and at death could be accounted for by family membership and the specific mutation carried.&lt;/p&gt;
+&lt;p&gt;Findings: Data were available from 3403 individuals from 1492 families: 1433 with C9orf72 expansions (755 families), 1179 with GRN mutations (483 families, 130 different mutations), and 791 with MAPT mutations (254 families, 67 different mutations). Mean age at symptom onset and at death was 49·5 years (SD 10·0; onset) and 58·5 years (11·3; death) in the MAPT group, 58·2 years (9·8; onset) and 65·3 years (10·9; death) in the C9orf72 group, and 61·3 years (8·8; onset) and 68·8 years (9·7; death) in the GRN group. Mean disease duration was 6·4 years (SD 4·9) in the C9orf72 group, 7·1 years (3·9) in the GRN group, and 9·3 years (6·4) in the MAPT group. Individual age at onset and at death was significantly correlated with both parental age at onset and at death and with mean family age at onset and at death in all three groups, with a stronger correlation observed in the MAPT group (r=0·45 between individual and parental age at onset, r=0·63 between individual and mean family age at onset, r=0·58 between individual and parental age at death, and r=0·69 between individual and mean family age at death) than in either the C9orf72 group (r=0·32 individual and parental age at onset, r=0·36 individual and mean family age at onset, r=0·38 individual and parental age at death, and r=0·40 individual and mean family age at death) or the GRN group (r=0·22 individual and parental age at onset, r=0·18 individual and mean family age at onset, r=0·22 individual and parental age at death, and r=0·32 individual and mean family age at death). Modelling showed that the variability in age at onset and at death in the MAPT group was explained partly by the specific mutation (48%, 95% CI 35-62, for age at onset; 61%, 47-73, for age at death), and even more by family membership (66%, 56-75, for age at onset; 74%, 65-82, for age at death). In the GRN group, only 2% (0-10) of the variability of age at onset and 9% (3-21) of that of age of death was explained by the specific mutation, whereas 14% (9-22) of the variability of age at onset and 20% (12-30) of that of age at death was explained by family membership. In the C9orf72 group, family membership explained 17% (11-26) of the variability of age at onset and 19% (12-29) of that of age at death.&lt;/p&gt;
+&lt;p&gt;Interpretation: Our study showed that age at symptom onset and at death of people with genetic frontotemporal dementia is influenced by genetic group and, particularly for MAPT mutations, by the specific mutation carried and by family membership. Although estimation of age at onset will be an important factor in future pre-symptomatic therapeutic trials for all three genetic groups, our study suggests that data from other members of the family will be particularly helpful only for individuals with MAPT mutations. Further work in identifying both genetic and environmental factors that modify phenotype in all groups will be important to improve such estimates.&lt;/p&gt;
+&lt;p&gt;Funding: UK Medical Research Council, National Institute for Health Research, and Alzheimer&amp;rsquo;s Society.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

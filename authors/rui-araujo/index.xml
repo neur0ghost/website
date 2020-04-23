@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rui Araújo | Miguel Tábuas Pereira</title>
+    <link>/authors/rui-araujo/</link>
+      <atom:link href="/authors/rui-araujo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rui Araújo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar</url>
+      <title>Rui Araújo</title>
+      <link>/authors/rui-araujo/</link>
+    </image>
+    
+    <item>
+      <title>The Head Turning Sign in Dementia and Mild Cognitive Impairment - Its Relationship to Cognition, Behavior, and Cerebrospinal Fluid Biomarkers</title>
+      <link>/publication/the-head-turning-sign-in-dementia-and-mild-cognitive-impairment-its-relationship-to-cognition-behavior-and-cerebrospinal-fluid-biomarkers/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/the-head-turning-sign-in-dementia-and-mild-cognitive-impairment-its-relationship-to-cognition-behavior-and-cerebrospinal-fluid-biomarkers/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Background/aims: The head turning sign (HTS) is frequently noticed in clinical practice, but few studies have investigated its etiological and neuropsychological correlates.&lt;/p&gt;
+&lt;p&gt;Methods: The presence and frequency of the HTS was operationalized and prospectively evaluated in patients with Alzheimer&amp;rsquo;s disease (AD), amnestic mild cognitive impairment (MCI), and behavioral-variant frontotemporal dementia (bvFTD). Cerebrospinal fluid (CSF) samples for AD biomarkers were collected. Mini-Mental State Examination, Montreal Cognitive Assessment, Geriatric Depression Scale (GDS), and insight scale scores were ascertained.&lt;/p&gt;
+&lt;p&gt;Results: A total of 84 patients were included. The HTS was more prevalent in AD than in MCI or bvFTD. It correlated negatively with cognitive measures and depression. It also had a positive correlation with CSF total tau and hyperphosphorylated tau proteins. Total tau protein and GDS score were the only variables independently associated with the HTS.&lt;/p&gt;
+&lt;p&gt;Conclusions: The presence of the HTS in a cognitively impaired individual suggests a diagnosis of AD. A higher HTS frequency correlates with higher CSF total tau levels, a smaller GDS score, and worse cognitive measures. In the MCI subgroup, the HTS may suggest a higher risk of progression.&lt;/p&gt;
+&lt;p&gt;Keywords: Alzheimer’s disease; Cerebrospinal fluid biomarkers; Clinical diagnosis; Frontotemporal dementia; Head turning sign; Mild cognitive impairment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tremor Frequency Assessment by iPhone® Applications - Correlation With EMG Analysis</title>
+      <link>/publication/tremor-frequency-assessment-by-iphone-applications-correlation-with-emg-analysis/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tremor-frequency-assessment-by-iphone-applications-correlation-with-emg-analysis/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Tremor frequency analysis is usually performed by EMG studies but accelerometers are progressively being more used. The iPhone® contains an accelerometer and many applications claim to be capable of measuring tremor frequency. We tested three applications in twenty-two patients with a diagnosis of PD, ET and Holmes&amp;rsquo; tremor. EMG needle assessment as well as accelerometry was performed at the same time. There was very strong correlation (Pearson &amp;gt;0.8, p &amp;lt; 0.001) between the three applications, the EMG needle and the accelerometry. Our data suggests the apps LiftPulse®, iSeismometer® and Studymytremor® are a reliable alternative to the EMG for tremor frequency assessment.&lt;/p&gt;
+&lt;p&gt;Keywords: EMG; Tremor; accelerometers; frequency; iPhone; smartphones.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

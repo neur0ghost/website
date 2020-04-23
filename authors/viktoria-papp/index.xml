@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viktoria Papp | Miguel Tábuas Pereira</title>
+    <link>/authors/viktoria-papp/</link>
+      <atom:link href="/authors/viktoria-papp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Viktoria Papp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar</url>
+      <title>Viktoria Papp</title>
+      <link>/authors/viktoria-papp/</link>
+    </image>
+    
+    <item>
+      <title>European Academy of Neurology - Resident and Research Fellow Section - Innovations and Future Direction in 2017</title>
+      <link>/publication/european-academy-of-neurology-resident-and-research-fellow-section-innovations-and-future-direction-in-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/european-academy-of-neurology-resident-and-research-fellow-section-innovations-and-future-direction-in-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

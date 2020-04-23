@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ricardo Varela | Miguel Tábuas Pereira</title>
+    <link>/authors/ricardo-varela/</link>
+      <atom:link href="/authors/ricardo-varela/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ricardo Varela</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar</url>
+      <title>Ricardo Varela</title>
+      <link>/authors/ricardo-varela/</link>
+    </image>
+    
+    <item>
+      <title>Headache Intensity Is Associated With Increased White Matter Lesion Burden in CADASIL Patients</title>
+      <link>/publication/headache-intensity-is-associated-with-increased-white-matter-lesion-burden-in-cadasil-patients/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/headache-intensity-is-associated-with-increased-white-matter-lesion-burden-in-cadasil-patients/</guid>
+      <description>&lt;p&gt;Abstract
+Objectives: Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is the most common hereditary cause of vascular dementia in adults. Migraine is a major symptom of the disease. We aimed to identify clinical and demographical features of the headache associated with increased cerebral lesion burden in a cohort of CADASIL patients.&lt;/p&gt;
+&lt;p&gt;Methods: Thirty-two patients with CADASIL were enrolled in this cross-sectional study. Demographics data, vascular risk factors and headache characteristics were collected through a structured questionnaire. MRI (3-T) was used to determine white matter hyperintensities burden evaluated by its volume (WMH-V).&lt;/p&gt;
+&lt;p&gt;Results: Regression analysis showed that age (β = 1.266, 95%CI = [0.805, 1.726], p &amp;lt; 0.001), headache intensity (β = 5.143, 95%CI = [2.362, 7.924], p = 0.001) and female sex (β = 19.727, 95%CI = [8.750, 30.075], p = 0.001) were the main predictors of WMH-V.&lt;/p&gt;
+&lt;p&gt;Discussion: Age, female sex and headache intensity are associated with increased white matter lesion volume in CADASIL.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

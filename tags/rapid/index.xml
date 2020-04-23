@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rapid | Miguel Tábuas Pereira</title>
+    <link>/tags/rapid/</link>
+      <atom:link href="/tags/rapid/index.xml" rel="self" type="application/rss+xml" />
+    <description>rapid</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar</url>
+      <title>rapid</title>
+      <link>/tags/rapid/</link>
+    </image>
+    
+    <item>
+      <title>Clinical Reasoning A 55-year-old Man With Rapidly Progressive Dementia and Parkinsonism</title>
+      <link>/publication/clinical-reasoning-a-55-year-old-man-with-rapidly-progressive-dementia-and-parkinsonism/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/clinical-reasoning-a-55-year-old-man-with-rapidly-progressive-dementia-and-parkinsonism/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

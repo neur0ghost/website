@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tau | Miguel Tábuas Pereira</title>
+    <link>/tags/tau/</link>
+      <atom:link href="/tags/tau/index.xml" rel="self" type="application/rss+xml" />
+    <description>tau</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar</url>
+      <title>tau</title>
+      <link>/tags/tau/</link>
+    </image>
+    
+    <item>
+      <title>Increased CSF Tau Is Associated With a Higher Risk of Seizures in Patients With Alzheimer&#39;s Disease</title>
+      <link>/publication/increased-csf-tau-is-associated-with-a-higher-risk-of-seizures-in-patients-with-alzheimers-disease/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/increased-csf-tau-is-associated-with-a-higher-risk-of-seizures-in-patients-with-alzheimers-disease/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Introduction: Neurofibrillary tangles and tau protein, the neuropathological hallmarks of Alzheimer&amp;rsquo;s disease (AD), have been identified in patients with epilepsy. Tau protein was also associated with the modulation of neuronal excitability in animal models of AD.&lt;/p&gt;
+&lt;p&gt;Materials and methods: We evaluated in 292 patients with AD the association between the risk of seizure development and AD cerebrospinal fluid (CSF) biomarkers, demographic characteristics, baseline Mini-Mental State Examination (MMSE) score, comorbidities, and apolipoprotein E status.&lt;/p&gt;
+&lt;p&gt;Results: The development of seizures was associated with younger age at dementia&amp;rsquo;s onset, lower baseline MMSE, and higher CSF total tau protein levels, but only MMSE (hazard ratio [HR] = 0.935; 95% confidence interval [CI] = [0.903, 0.968]; p &amp;lt; 0.001) and CSF tau (HR = 1.001; 95%CI = [1.001, 1.002]; p = 0.001) were independent predictors on multivariate analysis.&lt;/p&gt;
+&lt;p&gt;Discussion: While CSF tau and lower baseline MMSE association with seizure development could in part be explained by a greater degree of cortical damage, the role of tau in the modulation of neuronal excitability may also play a role and should be further investigated.&lt;/p&gt;
+&lt;p&gt;Keywords: Alzheimer; Biomarkers; CSF; Epilepsy; Seizure; Tau.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

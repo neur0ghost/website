@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prognosis | Miguel Tábuas Pereira</title>
+    <link>/tags/prognosis/</link>
+      <atom:link href="/tags/prognosis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prognosis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar</url>
+      <title>Prognosis</title>
+      <link>/tags/prognosis/</link>
+    </image>
+    
+    <item>
+      <title>Prognosis of Early-Onset vs. Late-Onset Mild Cognitive Impairment -  Comparison of Conversion Rates and Its Predictors</title>
+      <link>/publication/prognosis-of-early-onset-vs.-late-onset-mild-cognitive-impairment-comparison-of-conversion-rates-and-its-predictors/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/prognosis-of-early-onset-vs.-late-onset-mild-cognitive-impairment-comparison-of-conversion-rates-and-its-predictors/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Background: Despite having the same histopathological characteristics, early-onset and late-onset Alzheimer&amp;rsquo;s disease (AD) patients show some distinct clinical and neuropsychological profiles. Early Onset Mild Cognitive Impairment (EOMCI) is a less characterized group. The aim of this study is to characterize MCI probably due to AD in terms of the clinical, genetic, Cerebrospinal fluid (CSF) biomarkers profile and conversion rate of EOMCI, compared to the late-onset form (LOMCI).&lt;/p&gt;
+&lt;p&gt;Methods: 159 MCI patients were divided in two groups: 52 EOMCI (onset &amp;lt; 65 years) and 107 LOMCI (onset ≥ 65 years). We investigated differences in neuropsychological scores, clinical variables, ApoE genotype, CSF biomarkers (Aβ42, t-Tau and p-Tau) in both groups. Conversion was ascertained during follow-up.&lt;/p&gt;
+&lt;p&gt;Results: EOMCI showed a longer duration of symptoms prior to the first evaluation (EOMCI = 4.57 vs. LOMCI = 3.31, p = 0.008) and scored higher on the subjective memory complaints scale (9.91 vs. 7.85, p = 0.008), but performed better in brief cognitive tests (27.81 vs. 26.51, p &amp;lt; 0.001 in Mini-Mental State Examination; 19.84 vs. 18.67, p = 0.005 in Montreal Cognitive Assessment) than LOMCI. ApoE genotype distribution and CSF biomarker profile were similar in both groups, as was the conversion risk. Lower Aβ42 (Hazard ratio (HR): 0.998, 95% Confidence Interval (CI) = [0.996⁻1.000], p = 0.042), higher t-Tau levels (HR: 1.003, 95%CI = [1.000⁻1.005], p = 0.039) and higher scores in the Alzheimer Disease Assessment Scale-Cognitive (HR: 1.186, 95%CI = [1.083⁻1.299], p = 0.002) increased the risk of conversion.&lt;/p&gt;
+&lt;p&gt;Discussion: Despite differences in memory performance and memory complaints, EOMCI and LOMCI seem to represent indistinct biological groups that do not have a higher risk of conversion to AD or differ in risk factors for conversion.&lt;/p&gt;
+&lt;p&gt;Keywords: Alzheimer; MCI; biomarkers; conversion; dementia; early-onset; late-onset; mild cognitive impairment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
